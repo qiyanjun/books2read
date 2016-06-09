@@ -2,7 +2,7 @@
 
 We host four groups of public code repos through Github
 
-1. ``https://github.com/DataFusion4NetBio``
+1. https://github.com/DataFusion4NetBio
 
 2. ``https://github.com/DeepLearning4BioSeqText``
 
