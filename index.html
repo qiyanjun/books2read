@@ -1,0 +1,26 @@
+---
+layout: default
+title: Home
+desc: 'A blog website introduces those books I have read and recommend to computer science graduates. '
+---
+
+# About
+
+<br>
+<div>
+This website introduces a list of books I have read and recommend computer science graduates to read. Feel free to submit pull requests when you find my typos.
+</div>
+
+
+## Blog Posts
+
+<ul class="features">
+{% for post in site.posts  %}
+    <li><a href="{{ post.url }}">{{ post.title }}   </a><span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span></li>
+{% endfor %}
+</ul>
+<hr>
+
+<div class="center">
+  [View Posts organized by Tags]({{ site.baseurl }}{% link tag.md %})
+</div>

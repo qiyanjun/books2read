@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Control how many posts to show
+paginate: 3
+
+# Permalinks
+permalink:      pretty
+baseurl: 	    	/
+url:            http://qiyanjun.github.io/
+
+# Setup
+title:            	"Books To Read"
+tagline:          	"books2read"
+description:        "A list of books I recommend Computer Science Graduate Students to Read:"
+future: 			true
+
+author:
+  name:           'Yanjun Qi'
+  url:            https://twitter.com/Qdatalab
