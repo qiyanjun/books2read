@@ -2,9 +2,9 @@
 layout: post
 title: Brain-Myths-Exploded-Lessons-from-Neuroscience
 tags:
-- eductation guides 
+- Science
+- Critical-Thinking
 ---
 
 
-[Amazon](https://www.audible.com/pd/Brain-Myths-Exploded-Lessons-from-Neuroscience-Audiobook/B01NASOS26)
-
+- [URL](https://www.audible.com/pd/Brain-Myths-Exploded-Lessons-from-Neuroscience-Audiobook/B01NASOS26)

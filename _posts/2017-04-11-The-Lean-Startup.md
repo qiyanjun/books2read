@@ -1,10 +1,11 @@
 ---
 layout: post
-title: The-Lean-Startup
+title: The Lean Startup- How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 tags:
-- Critical-Thinking 
+- Critical-Thinking
+- must-read
 ---
 
 
-[URL](https://www.audible.com/pd/The-Lean-Startup-How-Todays-Entrepreneurs-Use-Continuous-Innovation-to-Create-Radically-Successful-Businesses-Audiobook/B005LXV0HI)
-
+- [URL](https://www.amazon.com/dp/B004J4XGN6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- a great read, powerful, logical

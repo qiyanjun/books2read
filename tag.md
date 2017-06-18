@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Posts by Tags
+title: Books by Tags
 desc: "A list of posts organized by tags"
-permalink: /tag/
 ---
 
 Click on a tag to see relevant list of posts.

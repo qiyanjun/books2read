@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Success How can We get there 
+title: Succeed-How-We-Can-Reach-Our-Goals
 tags:
-- eductation guides
+- must-read
+- Self-Development
 ---
 
 
-[Amazon]()
+- [URL](https://www.audible.com/pd/Self-Development/Succeed-How-We-Can-Reach-Our-Goals-Audiobook/B004FWLM24)
+- practical, concrete

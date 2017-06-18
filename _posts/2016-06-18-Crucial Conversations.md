@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Crucial Conversations 
+title: Crucial Conversations
 tags:
-- eductation guides
+- career guides
+- must-read
 ---
 
 
-[Amazon]()
+- [URL](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
+- Powerful, A must-read, Interesting

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Zero to One
+title: Zero to One- Notes on Startups, or How to Build the Future
 tags:
+- Critical-Thinking
 - career guides
 ---
 
 
-[Amazon]()
+- [URL](https://www.amazon.com/dp/B00J6YBOFQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- Inspiring

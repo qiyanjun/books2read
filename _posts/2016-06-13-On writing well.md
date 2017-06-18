@@ -1,8 +1,8 @@
 ---
 layout: post
-title: On Writing well 
+title: On Writing well
 tags:
-- eductation guides
+- Writing
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog Posts
-desc: "A list of all of my blog posts"
+title: Book Posts
+desc: "A list of all blog posts"
 ---
 
 <div class="posts">

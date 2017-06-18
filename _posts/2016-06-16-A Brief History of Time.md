@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Brief History of Time
+title: A Brief History of Time
 tags:
-- eductation guides
+- Science
 ---
 
 
-[Amazon]()
+- [URL](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- Educational, Intuitive
