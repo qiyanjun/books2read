@@ -2,12 +2,9 @@
 markdown:         kramdown
 highlighter:      rouge
 
-# Control how many posts to show
-paginate: 3
-
 # Permalinks
 permalink:      pretty
-baseurl: 	    	/
+baseurl: 	    	/books2read/
 url:            http://qiyanjun.github.io/
 
 # Setup

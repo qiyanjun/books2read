@@ -4,23 +4,22 @@ title: Home
 desc: 'A blog website introduces those books I have read and recommend to computer science graduates. '
 ---
 
-# About
-
+<h1> About </h1>
 <br>
 <div>
 This website introduces a list of books I have read and recommend computer science graduates to read. Feel free to submit pull requests when you find my typos.
 </div>
 
 
-## Blog Posts
+<h2> Blog Posts </h2>
 
 <ul class="features">
 {% for post in site.posts  %}
-    <li><a href="{{ post.url }}">{{ post.title }}   </a><span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}   </a><span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span></li>
 {% endfor %}
 </ul>
 <hr>
 
 <div class="center">
-  [View Posts organized by Tags]({{ site.baseurl }}{% link tag.md %})
+<a href="{{ site.baseurl }}/tag/" title="View Posts by Tag">View Posts organized by Tags</a>
 </div>
