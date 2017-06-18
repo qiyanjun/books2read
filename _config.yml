@@ -10,7 +10,7 @@ url:            http://qiyanjun.github.io/
 # Setup
 title:            	"Books To Read"
 tagline:          	"books2read"
-description:        "A list of books I recommend Computer Science Graduate Students to Read:"
+description:        "A List of Helpful Books for Computer Science Graduate to Read:"
 future: 			true
 
 author:

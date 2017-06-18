@@ -14,7 +14,10 @@ This website introduces a list of books I have read and recommend computer scien
 <h2> Blog Posts </h2>
 
 <ul class="features">
-{% for post in site.posts  %}
+
+{% assign sorted = site.posts  | sort: 'name' %}
+{% for post in sorted %}
+
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}   </a><span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span></li>
 {% endfor %}
 </ul>

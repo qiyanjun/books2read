@@ -2,7 +2,7 @@
 layout: post
 title: Other Useful Books
 tags:
-- OtherUseful
+- Useful-Others
 ---
 
 
@@ -35,6 +35,7 @@ tags:
 
 - [URL](https://www.amazon.com/dp/B00L73JQ0O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Useful, practical, and Effective
+- Genius concept of "Emotional Bank"
 
 ### The millionaire next door
 

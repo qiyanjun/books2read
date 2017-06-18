@@ -7,7 +7,8 @@ desc: "A list of posts organized by tags"
 Click on a tag to see relevant list of posts.
 
 <ul class="tags">
-{% for tag in site.tags %}
+{% assign sorted = site.tags | sort %}
+{% for tag in sorted %}
   {% assign t = tag | first %}
   <li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
 {% endfor %}
@@ -15,7 +16,8 @@ Click on a tag to see relevant list of posts.
 
 ---
 
-{% for tag in site.tags %}
+{% assign sorted = site.tags | sort %}
+{% for tag in sorted %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
