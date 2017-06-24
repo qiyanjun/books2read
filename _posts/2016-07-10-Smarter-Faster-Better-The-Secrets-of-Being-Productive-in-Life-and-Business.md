@@ -14,7 +14,7 @@ tags:
 
 1. a sense of in control, making choices improves  motivation
 2. Team safety/ culture, making all team members possible to participate and make suggestions
-3. Mental models to increase focus/ Focus by speculation, imagination
+3. Mental models to increase focus/ Focus by envision/ imagination
 4. Stretching long-term goals +  smart achievable goals
 5. Use forecasting/probability by considering outcomes/rewards to improve decision making
 6. Creativity: thinking carefully of own past, be humble to idea crisis, add diversity/ disturbance

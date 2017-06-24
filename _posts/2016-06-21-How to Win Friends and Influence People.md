@@ -12,4 +12,4 @@ tags:
 - Fundamental Techniques in Handling People
     - Don't criticize, condemn, or complain.
     - Give honest and sincere appreciation.
-    - Arouse in the other person an eager want.
+    - Arouse in the other person true interests. 
