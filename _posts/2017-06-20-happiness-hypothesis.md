@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom
+title: The Happiness Hypothesis- Finding Modern Truth in Ancient Wisdom
 tags:
 - Self-Development
 ---
@@ -20,7 +20,7 @@ tags:
 - set point and life condition are mostly hard to change factors
 -  external conditions bad for happiness: noise / lack of control / shame / ...
 -  key to finding your own gratification is to know your own strengths
--  doing challenging and achieving things make you happy!!! 
+-  doing challenging and achieving things make you happy!!!
 6. great summary of insightful nuggets from [URL](http://takingcareofmyownbusiness.com/2014/11/15/the-happiness-hypothesis-by-jonathan-haidt-2006/)
 - e.g., Pleasure comes more from making progress toward goals than from achieving them.
 - e.g., Haidt’s belief that the chief causes of evil are moral idealism and high self-esteem.
