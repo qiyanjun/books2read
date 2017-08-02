@@ -73,7 +73,7 @@ From the  book: “We plant seeds of resilience in the ways we process negative 
 3. Self-Confidence & Self-Compassion  
 From the bottom by ok:, “ I didn’t have to aim for perfection. I didn’t have to believe in myself all the time. I just had to believe I could contribute a little bit more…Over the years, this lesson has stuck with me whenever I feel overwhelmed.“
 
-4. Suggest to write down three things did well every day.
+4 Suggest to write down three things did well every day.
 "gratitude is passive: it makes us feel thankful for what we receive. Contributions are active: they build our confidence by reminding us that we can make a difference"
 
 5. Pay Attention To Joy
