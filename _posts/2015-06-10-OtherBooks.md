@@ -54,29 +54,3 @@ tags:
 ### 48 Laws of Power
 
 - [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
-
-
-### Option B: Facing Adversity, Building Resilience, and Finding Joy
-
-- [URL](https://www.amazon.com/dp/B01N8R5QD7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
-Five things To build resilience when facing Adversity:
-
-1. Personalization, Pervasiveness, Permanence
-
-From the  book: “We plant seeds of resilience in the ways we process negative events. After spending decades studying how people deal with setbacks, psychologist Martin Seligman found that three P’s can stunt recovery: (1) personalization-the belief that we are at fault; (2) pervasiveness-the belief that an event will affect all areas of our life; and (3) permanence-the belief that the aftershocks of the event will last forever,”
-
-2. Kick The Elephant Out Of The Room
-
- Sandberg and Grant write there is a lot of evidence that speaking about traumatic events improves mental and physical health, helps people understand their own emotions and feel understood by others.
-
-3. Self-Confidence & Self-Compassion  
-From the bottom by ok:, “ I didn’t have to aim for perfection. I didn’t have to believe in myself all the time. I just had to believe I could contribute a little bit more…Over the years, this lesson has stuck with me whenever I feel overwhelmed.“
-
-4 Suggest to write down three things did well every day.
-"gratitude is passive: it makes us feel thankful for what we receive. Contributions are active: they build our confidence by reminding us that we can make a difference"
-
-5. Pay Attention To Joy
- “Rather than waiting until we’re happy to enjoy the small things, we should go and do the small things that make us happy. ” When you seize more and more moments of happiness, you find that they give you strength.
-
-6 The rest of the book is about how to raise strong children, and create resilient families, communities, and workplaces.
