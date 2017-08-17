@@ -27,7 +27,7 @@ Click on a tag to see relevant list of posts.
   {% if post.tags contains t %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    <span class="date">- {{ post.date | date: "%B %-d, %Y"  }}</span>
   </li>
   {% endif %}
 {% endfor %}
