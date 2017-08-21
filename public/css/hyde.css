@@ -275,7 +275,16 @@ a.sidebar-nav-item:focus {
 .theme-base-07 .sidebar {
   background-color: #558C89;
 }
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
+.theme-base-07 .content a,
+.theme-base-07 .related-posts li a:hover {
+  color: #3409fd;
+}
+
+
+.theme-base-06 .sidebar {
+  background-color: #74a743;
+}
+.theme-base-06 .content a,
+.theme-base-06 .related-posts li a:hover {
   color: #3409fd;
 }
