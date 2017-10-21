@@ -10,6 +10,11 @@ tags:
 - [URL](https://www.amazon.com/How-Raise-Adult-Overparenting-Prepare/dp/1250093635/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1497746888&sr=1-1)
 - Mentoring has a close connection to raising up children. I like this  book which gave me  many insights about mentoring.
 
+### Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood
+
+- [URL](https://www.amazon.com/Untangled-Guiding-Teenage-Transitions-Adulthood/dp/0553393057)
+
+
 ### Wonder:
 
 - [URL](https://smile.amazon.com/dp/B0051ANPZQ/ref=smi_www_rco2_go_smi_g2609328962?_encoding=UTF8&btkr=1&ie=UTF8)
