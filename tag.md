@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books by Tags
+title: Book Index by Tags
 desc: "A list of posts organized by tags"
 ---
 
