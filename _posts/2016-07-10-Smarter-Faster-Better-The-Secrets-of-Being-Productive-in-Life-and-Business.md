@@ -2,7 +2,7 @@
 layout: post
 title: Smarter-Faster-Better-The-Secrets-of-Being-Productive-in-Life-and-Business
 tags:
-- career guides
+- Career-guides
 - must-read
 - Self-Development
 ---
