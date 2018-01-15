@@ -17,11 +17,9 @@ tags:
 - Interesting concepts to take away:
 
 + Be true to yourself, and try to get into situations that play well with your personality, rather than forcing uncomfortable situations.
-+ A list positive characteristics are attributed to introverts, such as creativity, and whether that is a true reflection.
++ A list positive characteristics are attributed to introverts, such as creativity, depth, focus, seriousness, and etc.
 
-+ The author's views that introverts are highly undervalued, particularly in leadership positions.
-
-+ The first part of the book “The Extrovert Ideal,” discussed the historical creation of the “Culture of Personality”.
++ The first part of the book “The Extrovert Ideal,” discussed the historical creation of the “Culture of Personality” and the author's views that introverts are highly undervalued, particularly in leadership positions.
 
 + The second part of the book “Your Biology, Your Self?” used scientific evidence to explain a so-called “rubber band theory” of personality, meaning that we are elastic and can stretch ourselves beyond our innate traits, but only within certain limits.
 
