@@ -17,8 +17,8 @@ tags:
 - Interesting concepts to take away:
 
 + Be true to yourself, and try to get into situations that play well with your personality, rather than forcing uncomfortable situations.
-+ A list of positive characteristics are attributed to introverts, such as creativity, depth, focus, and etc.
-+ The biggest difference between introverts and extroverts is how they respond to stimuli! 
++ A list of positive characteristics are attributed to introverts, such as creativity, depth, focus, value-driven instead of reward-seeking and etc.
++ The biggest difference between introverts and extroverts is how they respond to stimuli!
 
 + The first part of the book “The Extrovert Ideal,” discussed the historical creation of the “Culture of Personality” and the author's views that introverts are highly undervalued, particularly in leadership positions.
 
