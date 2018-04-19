@@ -4,6 +4,7 @@ title: Algorithms to Live By- The Computer Science of Human Decisions
 tags:
 - Critical-Thinking
 - must-read
+- Science
 ---
 
 
