@@ -22,7 +22,8 @@ tags:
 
 - 1. cognitive biases
   - One great figure summarizing human's cognitive bias. Image Credit from [URL](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
-  ![cognitive-bias-cheat-sheet](pic/cogbias.jpeg){:class="img-responsive"}
+  ![cognitive-bias-cheat-sheet]({{ site.baseurl }}/pic/cogbias.jpeg){:class="img-responsive"}
+ 
   + explanations for why humans struggle to think statistically.
   + The "anchoring effect" names our tendency to be influenced by irrelevant numbers. Shown higher/lower numbers, experimental subjects gave higher/lower responses
   + The availability heuristic is a mental shortcut that occurs when people make judgments about the probability of events on the basis of how easy it is to think of examples.
