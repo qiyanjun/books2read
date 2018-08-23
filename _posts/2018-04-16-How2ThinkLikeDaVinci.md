@@ -2,9 +2,7 @@
 layout: post
 title: How to think like Leonardo da Vinci
 tags:
-- Science
-- History 
-- must-read
+- Self-Development
 ---
 
 [URL](https://www.goodreads.com/book/show/598506.How_to_Think_Like_Leonardo_da_Vinci)

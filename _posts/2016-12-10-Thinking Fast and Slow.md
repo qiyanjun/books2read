@@ -4,6 +4,7 @@ title: Thinking, Fast and Slow
 tags:
 - Self-Development
 - Science
+- must-read
 ---
 
 
