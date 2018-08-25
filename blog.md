@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Posts of Books
+title: Posts Feed
 desc: "A list of all blog posts"
 ---
 
