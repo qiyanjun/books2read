@@ -34,6 +34,8 @@ tags:
     - One great figure summarizing human's cognitive bias. Image Credit from [URL](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
     <img src="{{ site.baseurl }}/pic/cogbias.jpeg" alt="drawing" width="1000"/>
     - The author of above post about cognitive-bias-cheat-sheet grouped 175 biases into vague categories (decision-making biases, social biases, memory errors, etc). The author explains roughly the four types of cognitive biases as follows: 
+
+
 | Group Index  | About Positive  |  About Negative  | Example Biases  |
 |---  |---  |---  |---  |
 |  1 |  Too much information, so we aggressively filter. | We don’t see everything. Some of the information we filter out is actually useful and important.  |  e.g.,  Availability heuristic, Attentional bias, Illusory truth effect, Mere exposure effect, Context effect, Cue-dependent forgetting, Mood-congruent memory bias, Frequency illusion, Baader-Meinhof Phenomenon, Empathy gap;  Bizarreness effect, Humor effect, Von Restorff effect, Negativity bias, Publication bias, Omission bias; Anchoring, Contrast effect, Focusing effect, Framing effect, Weber–Fechner law, Distinction bias;  Confirmation bias, Congruence bias, Post-purchase rationalization, Choice-supportive bias, Selective perception, ... Bias blind spot, ...|   
