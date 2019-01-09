@@ -21,7 +21,7 @@ tags:
   + System 2: Slow, effortful, infrequent, logical, calculating, conscious. 
   + the differences between these two thought systems: coherence, attention, laziness, association, jumping to conclusions, WYSIATI (What you see is all there is), and how one forms judgments. The System 1 vs. System 2 debate dives into the reasoning or lack thereof for human decision making, with big implications for many areas. 
 
--  1 cognitive biases 
+- 1 cognitive biases 
   + explanations for why humans struggle to think statistically.
   + The "anchoring effect" names our tendency to be influenced by irrelevant numbers. Shown higher/lower numbers, experimental subjects gave higher/lower responses
   + The availability heuristic is a mental shortcut that occurs when people make judgments about the probability of events on the basis of how easy it is to think of examples.
@@ -47,7 +47,7 @@ tags:
 
 
 
- -  2 prospect theory
+ - 2 prospect theory
    + The author discusses the tendency for problems to be addressed in isolation and how, when other reference points are considered, the choice of that reference point (called a frame) has a disproportionate impact on the outcome. This section also offers advice on how some of the shortcomings of System 1 thinking can be avoided.
    + Kahneman developed prospect theory, the basis for his Nobel prize, to account for experimental errors he noticed in Daniel Bernoulli's traditional utility theory (not take into account cognitive biases). 
    + The theory describes the decision processes in two stages:
