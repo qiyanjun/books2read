@@ -21,10 +21,7 @@ tags:
   + System 2: Slow, effortful, infrequent, logical, calculating, conscious. 
   + the differences between these two thought systems: coherence, attention, laziness, association, jumping to conclusions, WYSIATI (What you see is all there is), and how one forms judgments. The System 1 vs. System 2 debate dives into the reasoning or lack thereof for human decision making, with big implications for many areas. 
 
-- 1. cognitive biases
-  - One great figure summarizing human's cognitive bias. Image Credit from [URL](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
-  ![cognitive-bias-cheat-sheet]({{ site.baseurl }}/pic/cogbias.jpeg){:class="img-responsive"}
- 
+- 1. cognitive biases 
   + explanations for why humans struggle to think statistically.
   + The "anchoring effect" names our tendency to be influenced by irrelevant numbers. Shown higher/lower numbers, experimental subjects gave higher/lower responses
   + The availability heuristic is a mental shortcut that occurs when people make judgments about the probability of events on the basis of how easy it is to think of examples.
@@ -33,6 +30,10 @@ tags:
   + Framing effect (psychology)
   + Sunk cost fallacy: to avoid feelings of regret or loss 
 
+  + more about cognitive bias:   
+    - One great figure summarizing human's cognitive bias. Image Credit from [URL](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
+
+    <img src="{{ site.baseurl }}/pic/cogbias.jpeg" alt="drawing" width="500"/>
 
 
  - 2. prospect theory
