@@ -1,13 +1,11 @@
 ---
 layout: post
-title: The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
+title: The Hard Thing About Hard Things- Building a Business When There Are No Easy Answers
 tags:
 - Critical-Thinking
 - Career-guides
 ---
 
-
-Book title: 
 
 - [URL](https://www.amazon.com/dp/B00DQ845EA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
