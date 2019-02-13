@@ -21,12 +21,12 @@ Book title: The Productivity Project: Accomplishing More by Managing Your Time, 
 	- shrinking or eliminating the unimportant (dedicate / chunking / eliminate); 
 	- control the time of work: a steep decline in workers’ productivity after crossing the 55 hour per week mark.
 + Brain dumping: 
-	- right down all the thoughts that you have at that moment and reference later
+	- write down all the thoughts that you have at that moment and reference later
 + Exercising your attention muscle
 	- meditation 
 	- diffused mode of attention 
 	- cell phone type of surfing needs focused mode-attention  
 + Avoid distractions: 
-	- each distration needs 25mins to come back 
+	- each distraction needs 25mins to come back 
 	- turn off all notifications
 	- the 20 second rule to distract yourself from the inevitable distractions; 
