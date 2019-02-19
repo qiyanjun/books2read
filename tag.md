@@ -22,7 +22,18 @@ Click on a tag to see relevant list of posts.
   {% assign posts = tag | last %}
 
 <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
-<ul>
+
+<table id="datatab3" summary="Table of readings" border="1">
+<tr>
+ <h3><b>
+  <th>No.</th>
+  <th>Date-Read</th>
+  <th>Title and Information</th>
+  </b>
+  </h3>
+</tr>
+
+<!---<ul>
 {% for post in posts %}
   {% if post.tags contains t %}
   <li>
@@ -31,7 +42,25 @@ Click on a tag to see relevant list of posts.
   </li>
   {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
+
+
+{% assign counter = 1 %}
+
+{% for post in posts %}
+  {% if post.tags contains t %}
+
+<tr>
+<td>{{ counter }}</td>
+<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
+<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
+</tr>
+
+  {% assign counter=counter | plus:1 %}
+
+  {% endif %}
+{% endfor %}
+</table>  
 
 ---
 
