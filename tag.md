@@ -19,7 +19,7 @@ Click on a tag to see relevant list of posts.
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  {% assign posts = site.posts %}
+  {% assign posts = site.posts  | sort: 'date' | reverse %}
 
 <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
 
