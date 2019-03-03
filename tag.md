@@ -27,7 +27,7 @@ Click on a tag to see relevant list of posts.
 <tr>
  <h3><b>
   <th>No.</th>
-  <th>Date-Read</th>
+  <!--<th>Date-Read</th>-->
   <th>Title and Information</th>
   </b>
   </h3>
@@ -52,7 +52,7 @@ Click on a tag to see relevant list of posts.
 
 <tr>
 <td>{{ counter }}</td>
-<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
+<!--<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td> -->
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
 </tr>
 
