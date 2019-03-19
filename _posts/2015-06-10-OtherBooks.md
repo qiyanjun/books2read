@@ -6,6 +6,35 @@ tags:
 ---
 
 
+### The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future
+- [URL](https://www.goodreads.com/book/show/12605157-the-100-startup)
+- Great Summary @ [URL](https://www.forbes.com/sites/ericwagner/2012/09/27/the-100-startup-entrepreneur/#3f4cc16414c9)
+- “Catch a man a fish, and you can sell it to him. Teach a man to fish -- and you ruin a wonderful business opportunity” - Karl Marx
+- Listen -- figure out the pain of your customer so you can deliver a unique cure in a profitable way.
+- Treating our customers in marketing efforts like real people: “customer profiling”: Interests, Passions, Skills, Beliefs, Values
+- The deeper you engage and know your ideal customer; the easier it is for them to buy from you.
+- What do you do after nailing a customer pain with an incredible solution; establishing who your ideal or ONE customer is; but then still falling a little short of your revenue goals? Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best horse to ride as you keep tweaking some more is incredible. Especially as your customer numbers go up.
+- “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. 
+
+
+
+### 12 Rules for Life: An Antidote to Chaos: Jordan B. Peterson .
+- [URL](https://en.wikipedia.org/wiki/12_Rules_for_Life)
+- Outline of the book:  as "a less dense and more practical version of Maps of Meaning."
++  Stand up straight with your shoulders back
++ Treat yourself like someone you are responsible for helping
++ Make friends with people who want the best for you
++ Compare yourself to who you were yesterday, not to who someone else is today
++ Do not let your children do anything that makes you dislike them
++ Set your house in perfect order before you criticize the world
++ Pursue what is meaningful (not what is expedient)
++ Tell the truth – or, at least, don't lie
++ Assume that the person you are listening to might know something you don't
++ Be precise in your speech
++ Do not bother children when they are skateboarding
++ Pet a cat when you encounter one on the street
+
+
 ### The millionaire next door
 
 - [URL](https://www.amazon.com/dp/B00CLT31D6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
