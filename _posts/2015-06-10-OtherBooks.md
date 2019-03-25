@@ -13,8 +13,7 @@ tags:
 - Listen -- figure out the pain of your customer so you can deliver a unique cure in a profitable way.
 - Treating our customers in marketing efforts like real people: “customer profiling”: Interests, Passions, Skills, Beliefs, Values
 - The deeper you engage and know your ideal customer; the easier it is for them to buy from you.
-- What do you do after nailing a customer pain with an incredible solution; establishing who your ideal or ONE customer is; but then still falling a little short of your revenue goals? Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best horse to ride as you keep tweaking some more is incredible. Especially as your customer numbers go up.
-- “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. 
+- “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best as you keep tweaking some more is incredible, especially when your customer numbers go up.
 
 
 
