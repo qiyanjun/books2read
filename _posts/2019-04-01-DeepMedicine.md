@@ -21,14 +21,16 @@ by Eric Topol  (Author)
 
 - a rough summary:  
   + Dr. Topol tells us we are living in the Fourth Industrial Age, through AI ; AI has been sneaking into our lives;  
+ 
   + The promise is to provide composite views of patients medical data; to improve decision support; to avoid error such as misdiagnosis and unnecesary procedures; to help in the ordering and interpretation of appropriate tests; and to recommend treatments; 
+ 
   + For medicine, big datasets take the form of whole-genome sequences, high-res images, and continuous outputs from wearable sensors. 
 
   + 3D Medicine: digitizing, and democratizing, and deep ;  
 
   + *Propose three components of deep medicine: (1) deep phenotyping; (2) deep learning based pattern learning; (3) deep empathy and connection between doctors/health systems and patients. *
  
-  + current medicine is Shallow medicine, indicating by e.g., physicians spending the majority time looking for information and few minutes talking with patients; doctors are overloaded; current healthcare "is resulting in extraordinary waste, suboptimal outcomes, and unnecessary harm."   
+  + current medicine practice is Shallow medicine, indicated by e.g., physicians spending the majority time looking for information and only ~20 percent of time in talking with patients; doctors are overloaded with many duties not about caring patients at all; computer, keyboards screens, scans et al are pushing doctors away from close relationships with patients; Besides, current healthcare "is resulting in extraordinary waste, suboptimal outcomes, and unnecessary harm."   
 
   + Dr. Topol reviews the states of the art: AI is pushing progress in medicine on multiple narrow aspects; He also reviewed the DeepMind controversial beginning push in medicine due to the risk of privacy; 
 
