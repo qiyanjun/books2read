@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again
+title: Deep Medicine- How Artificial Intelligence Can Make Healthcare Human Again
 tags:
 - Science
 - Critical-Thinking
