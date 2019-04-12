@@ -19,7 +19,7 @@ by Eric Topol  (Author)
 - Author is a world-renowned cardiologist, Executive Vice-President of Scripps Research, founder of a new medical school and one of the top ten most cited medical researchers
 - He pointed out the transformational potential of AI for medicine , .is set to save time, lives and money.
 
-- Intro chapter: 
+- a rough summary:  
   + Dr. Topol tells us we are living in the Fourth Industrial Age, through AI ; AI has been sneaking into our lives;  
   + The promise is to provide composite views of patients medical data; to improve decision support; to avoid error such as misdiagnosis and unnecesary procedures; to help in the ordering and interpretation of appropriate tests; and to recommend treatments; 
   + For medicine, big datasets take the form of whole-genome sequences, high-res images, and continuous outputs from wearable sensors. 
