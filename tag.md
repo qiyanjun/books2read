@@ -10,7 +10,7 @@ Click on a tag to see relevant list of posts.
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  <li><a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
+  <li><a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}" class="newBtn">{{ t | downcase }}</a></li>
 {% endfor %}
 </ul>
 
@@ -21,7 +21,7 @@ Click on a tag to see relevant list of posts.
   {% assign t = tag | first %}
   {% assign posts = site.posts  | sort: 'date' | reverse %}
 
-<h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
+<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
 
 <table id="datatab3" summary="Table of readings" border="1">
 <tr>
