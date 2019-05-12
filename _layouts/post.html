@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<ul class="tags">
-{% assign sorted = page.tags | sort %}
-{% for tag in sorted %}
-  {% assign t = tag | first %}
-  <li><a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}" class="newBtn">{{ t | downcase }}</a></li>
-{% endfor %}
-</ul>
+
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
