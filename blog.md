@@ -11,6 +11,7 @@ desc: "A list of all blog posts"
   {% for post in site.posts  %}
 
   <div class="post">
+
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -19,13 +20,16 @@ desc: "A list of all blog posts"
 
     <span class="post-date">- {{ post.date | date_to_string }}</span>
 
+    <span> {{ post.tags | join: ", " }} </span>
+
 {% assign sorted = post.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-<a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+  <a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
 {% endfor %}
 
     {{ post.content }}
+  
   </div>
   {% endfor %}
 </div>
