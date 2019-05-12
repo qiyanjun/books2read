@@ -22,10 +22,9 @@ desc: "A list of all blog posts"
 
     <span> {{ post.tags | join: ", " }} </span>
 
-{% assign sorted = post.tags | sort %}
-{% for tag in sorted %}
+{% for tag in post.tags %}
   {% assign t = tag | first %}
-  <a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+<a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{t}}</a> 
 {% endfor %}
 
     {{ post.content }}
