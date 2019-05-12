@@ -321,13 +321,13 @@ a.button {
 a.button:active {border-style: inset;}
 
 
-a.button3 {
+a.button2 {
     display: inline-block;
     box-sizing: border-box;
     margin: 0;
     padding: 1px 1px;
 
-    font: 10px Arial;
+    font: 11px Arial;
     text-rendering: auto;
     text-align: center;
     text-transform: none;
@@ -338,7 +338,7 @@ a.button3 {
     word-spacing: normal;
     color: buttontext;
 
-    border: 2px outset buttonface;
+    border: 1px outset buttonface;
     border-image: initial;
 
     background-color: buttonface;
@@ -350,10 +350,4 @@ a.button3 {
     cursor: default;
 }
 
-a.button3:active {border-style: inset;}
-
-a.button2 {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-}
+a.button2:active {border-style: inset;}
