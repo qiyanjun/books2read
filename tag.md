@@ -55,7 +55,11 @@ Click on a tag to see relevant list of posts.
 <td>{{ counter }}</td>
 <!--<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td> -->
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
-<td><span> {{ post.tags | join: ", " }} </span></td>
+<td>
+    {% for t in post.tags %}
+    <a class="button" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+  {% endfor %}
+</td>
 </tr>
 
   {% assign counter=counter | plus:1 %}

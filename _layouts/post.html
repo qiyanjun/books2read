@@ -3,8 +3,9 @@ layout: default
 ---
 
 
-
- <a href="{{ site.baseurl }}/tag/" class="button"> {{ page.tags | join: ", " }} </a>
+	{% for t in page.tags %}
+  	<a class="button" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+	{% endfor %}
 
 
 <div class="post">

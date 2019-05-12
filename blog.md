@@ -24,8 +24,6 @@ desc: "A list of all blog posts"
   <a class="button" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
 {% endfor %}
   
-  <a href="{{ site.baseurl }}/tag/" class="button"> {{ post.tags | join: ", " }} </a> 
-
     {{ post.content }}
   
   </div>
