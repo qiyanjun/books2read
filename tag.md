@@ -57,7 +57,7 @@ Click on a tag to see relevant list of posts.
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
 <td>
     {% for t in post.tags %}
-    <a class="button" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+    <a class="button2" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
   {% endfor %}
 </td>
 </tr>
