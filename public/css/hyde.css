@@ -289,24 +289,9 @@ a.sidebar-nav-item:focus {
   color: #3409fd;
 }
 
-a.newBtn {
-  color: $brand-color;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
-  &:hover {
-    color: $text-color;
-    text-decoration: underline;
-  }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
+a.newbtn {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
 }
+
