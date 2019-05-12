@@ -20,7 +20,7 @@ desc: "A list of all blog posts"
 
     <span class="post-date">- {{ post.date | date_to_string }}</span>
 
-    <a href="{{ site.baseurl }}/tag/" class="newbtn"> {{ post.tags | join: ", " }} </a>
+    <a href="{{ site.baseurl }}/tag/" class="button"> {{ post.tags | join: ", " }} </a>
 
     {{ post.content }}
   

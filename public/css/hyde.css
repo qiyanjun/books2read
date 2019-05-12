@@ -289,9 +289,33 @@ a.sidebar-nav-item:focus {
   color: #3409fd;
 }
 
-a.newbtn {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
+a.button {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1px 6px;
+
+    font: 13.3333px Arial;
+    text-rendering: auto;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: none;
+    letter-spacing: normal;
+    word-spacing: normal;
+    color: buttontext;
+
+    border: 2px outset buttonface;
+    border-image: initial;
+
+    background-color: buttonface;
+
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    cursor: default;
 }
 
+a.button:active {border-style: inset;}
