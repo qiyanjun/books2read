@@ -321,7 +321,7 @@ a.button {
 a.button:active {border-style: inset;}
 
 
-a.button2 {
+a.button3 {
     display: inline-block;
     box-sizing: border-box;
     margin: 0;
@@ -350,4 +350,10 @@ a.button2 {
     cursor: default;
 }
 
-a.button2:active {border-style: inset;}
+a.button3:active {border-style: inset;}
+
+a.button2 {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
