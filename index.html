@@ -30,6 +30,7 @@ This website introduces a list of books I have read and recommend computer scien
   <th>No.</th>
   <th>Date-Read</th>
   <th>Title and Information</th>
+  <th>Tags</th>
   </b>
   </h3>
 </tr>
@@ -42,6 +43,7 @@ This website introduces a list of books I have read and recommend computer scien
 <td>{{ counter }}</td>
 <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
+<td><span> {{ post.tags | join: ", " }} </span></td>
 </tr>
 
 {% assign counter=counter | plus:1 %}
