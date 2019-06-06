@@ -326,7 +326,8 @@ a.button2 {
     box-sizing: border-box;
     margin: 0;
     padding: 1px 1px;
-
+    height: auto;
+    width: auto;
     font: 11px Arial;
     text-rendering: auto;
     text-align: center;
