@@ -2,7 +2,7 @@
 layout: post
 title: The Productivity Project- Accomplishing More by Managing Your Time, Attention, and Energy
 tags:
-- Critical-Thinking
+- Career-guides
 - Self-Development
 ---
 
