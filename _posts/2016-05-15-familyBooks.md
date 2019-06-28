@@ -17,7 +17,11 @@ tags:
 
 - [URL](https://www.amazon.com/dp/B00L73JQ0O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Useful, practical, and Effective
-- Genius concept of "Emotional Bank"
+- Genius concept of "Emotional Bank": 
+	1. the quality of the relationship to have with others. Like a finanical bank account in that you can make "deposits," by proactively doing things that build trust in the relationship, or you can make "withdrawals," by reactively doing things that decrease the level of trust. 
+	2. And at any given time the balance of trust in the account determines how well you can communicate and solve porblems with another person.
+	3. Some "deposits" you can make in your own family--that may be helpful; e.g.: Being Kind, Apologizing, Being Loyal to Those Not Present, Making and Keeping Promises, and Forgiving.
+
 - Habit 1: Be Proactive –  “to act based on principles and values rather than reacting based on emotion or circumstance.” 
 - Habit 2: Begin with the End in Mind – the cultivation of the first habit is the building of a family mission statement. A family mission statement explains the principles and proriority the family.  
 - Habit 3: Put First Things First –  putting family first in all things. About  work-life balance, day care, full-time working mothers, etc; fact that no one else can raise your children as the parent can. 
@@ -52,65 +56,11 @@ tags:
 2. Life skills:(longer list in book)
 ```
 - by 3 years, kid should:
--- put away toys
--- dress self
--- put clothes in hamper
--- clear plate after meal
--- assist in setting table
--- brush teeth and wash face with assistance
 - by 5 years, kid should
--- know full name, address, phone number
--- know how to make emergency call
--- perform simple cleaning chores
--- feed pets
--- identify monetary denominations, understand concept of money use
--- brush teeth, comb hair, wash face without assistance
--- help with laundry chores
--- choose own clothes to wear
 - by 7 years, kid can
--- mix, stir, cut food
--- make basic meal (e.g. sandwich)
--- help put away groceries
--- wash dishes
--- basic household cleaners
--- straighten up bathroom after use
--- make bed without assistance
--- bathe unsupervised
 - by 9 years, kid should:
--- fold clothes
--- simple sewing
--- care for outdoor toys (e.g. bike)
--- take care of personal hygiene without being told
--- use broom and dustpan
--- read a recipe and prepare simple meal
--- help create grocery list
--- count and make change
--- take written phone messages
--- help with lawn/garden duties
--- take out trash
 - by 13 years, kid should:
--- able to stay home alone
--- go to store and make purchase by self
--- change bedsheets
--- use washing machine and dryer/clothes line
--- plan and prepare a meal with several ingredients
--- use oven to broil/bake
--- read labels
--- iron clothes
--- basic hand tools
--- mow lawn
--- look after younger siblings or neighbors
 - by 18, kid should:
--- perform sophisticated cleaning and maintenance chores (e.g. changing vacuum cleaner bag)
--- fill car with gas, add air to tire
--- read and understand medicine labels
--- interview for and get job
--- prepare and cook meals
-- by moving out own own, young adult should:
--- make doctor/dental appointments
--- basic understanding of finances (balance checkbook, pay bills, use credit cards responsibly)
--- understand basic contracts (e.g. apartment lease)
--- schedule oil changes and basic car maintenance
 ```
 
 3. teach kids to think for themselves:
@@ -186,3 +136,7 @@ tags:
 - [URL](https://www.amazon.com/Battle-Hymn-Tiger-Mother-Chua/dp/0143120581)
 - Funny, powerful and an eye opener.
 
+
+### Emotional-Intelligence
+
+- [URL](https://www.audible.com/pd/Emotional-Intelligence-Part-1-Audiobook/B002VA9U0S)

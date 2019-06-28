@@ -7,6 +7,17 @@ tags:
 
 
 
+
+
+### The Middle Passage: From Misery to Meaning in Midlife” by James Hollis
+
+- [URL](https://www.amazon.com/Passage-Studies-Jungian-Psychology-Analysts/dp/0919123600)
+
+- “In Projection and Re-Collection in Jungian Psychology, Marie-Louise von Franz notes five stages of projection. First, the person is convinced that the inner (that is, unconscious) experience is truly outer. Second, there is a gradual recognition of the discrepancy between the reality and the projected image (one falls out of love, for example). Third, one is required to acknowledge this discrepancy. Fourth, one is driven to conclude one was somehow in error originally. And, fifth, one must search for the origin of the projected energy within oneself. This last stage, the search for the meaning of the projection, always involves a search for a greater knowledge of oneself.”
+
+- "In asking more of ourselves, we forego disappointment in others for not delivering what they could never deliver; we acknowledge that their primary responsibility, just like ours, is their own journey. We become increasingly aware of the finitude of the body and fragility of all things human.
+If our courage holds, the Middle Passage brings us back to life after we have been cut off from it. Strangely, for all the anxiety, there is an awesome sense of freedom as well. We may even come to realize that it does not matter what happens outside as long as we have a vital connection with ourselves. The new-found relationship with the inner life more than balances losses in the outer. The richness of the soul’s journey proves at least as rewarding as worldly achievement.”
+
 ### 12 Rules for Life: An Antidote to Chaos: Jordan B. Peterson .
 - [URL](https://en.wikipedia.org/wiki/12_Rules_for_Life)
 - Outline of the book:  as "a less dense and more practical version of Maps of Meaning."
@@ -25,16 +36,6 @@ tags:
 
 
 
-### The Middle Passage: From Misery to Meaning in Midlife” by James Hollis
-
-- [URL](https://www.amazon.com/Passage-Studies-Jungian-Psychology-Analysts/dp/0919123600)
-
-- “In Projection and Re-Collection in Jungian Psychology, Marie-Louise von Franz notes five stages of projection. First, the person is convinced that the inner (that is, unconscious) experience is truly outer. Second, there is a gradual recognition of the discrepancy between the reality and the projected image (one falls out of love, for example). Third, one is required to acknowledge this discrepancy. Fourth, one is driven to conclude one was somehow in error originally. And, fifth, one must search for the origin of the projected energy within oneself. This last stage, the search for the meaning of the projection, always involves a search for a greater knowledge of oneself.”
-
-- "In asking more of ourselves, we forego disappointment in others for not delivering what they could never deliver; we acknowledge that their primary responsibility, just like ours, is their own journey. We become increasingly aware of the finitude of the body and fragility of all things human.
-If our courage holds, the Middle Passage brings us back to life after we have been cut off from it. Strangely, for all the anxiety, there is an awesome sense of freedom as well. We may even come to realize that it does not matter what happens outside as long as we have a vital connection with ourselves. The new-found relationship with the inner life more than balances losses in the outer. The richness of the soul’s journey proves at least as rewarding as worldly achievement.”
-
-
 ### The Road Less Traveled, Timeless Edition: A New Psychology of Love, Traditional Values and Spiritual Growth 
 
 - [URL](https://www.amazon.com/Road-Less-Traveled-Timeless-Traditional/dp/0743243153)
@@ -51,8 +52,4 @@ If our courage holds, the Middle Passage brings us back to life after we have be
 The books pointed out that the life problems cannot be avoided in life. To experience happiness, they need to be identified and solved: "Problems do not go away. They must be worked through or else they remain, forever a barrier to the growth and development of the spirit." 
 
 
-
-### 48 Laws of Power
-
-- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
 

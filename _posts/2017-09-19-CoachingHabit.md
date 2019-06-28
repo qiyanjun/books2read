@@ -18,6 +18,7 @@ tags:
 6. Q6: Stay curious and ask: ==> planning: 1. What is our winning aspirations?; 2. What and where impact? Where do we play?  3. How will we win? 4. What capabilities need to have? How to become and stay as strength : 5. What to measure? What management design? ==> strategic question: / say YES to work meaningful for you and important/
 7. Q7:  what was the most useful to you? / what did you learn? / ==> the learning question: people only learn when in double-loop, in the second loop reflecting the thing in the first loop. This is because Brain has very low retention rate in learning/ neural model: AGES MODEL for longer term memory: attention, generation, emotion, and spacing! / use Generation strategy here: ask the mentored to generate questions from yours, to interrupt forgetting/
 
+
 *  Formula How to trigger New habits:
 1. short and specific cue->ask questions in all possible channels, e.g. Ask talks or meetings  (a strong and positive way to finish a conversation) /
 2. rewards->clear of the payoff  /

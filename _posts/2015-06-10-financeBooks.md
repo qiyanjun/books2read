@@ -16,6 +16,10 @@ tags:
 - “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best as you keep tweaking some more is incredible, especially when your customer numbers go up.
 
 
+### 48 Laws of Power
+- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+
+
 
 ### The millionaire next door
 
