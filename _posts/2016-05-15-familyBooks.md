@@ -49,8 +49,9 @@ tags:
 
 
 
-2. Life skills:
-<!-- - by 3 years, kid should:
+2. Life skills:(longer list in book)
+```
+- by 3 years, kid should:
 -- put away toys
 -- dress self
 -- put clothes in hamper
@@ -110,7 +111,7 @@ tags:
 -- basic understanding of finances (balance checkbook, pay bills, use credit cards responsibly)
 -- understand basic contracts (e.g. apartment lease)
 -- schedule oil changes and basic car maintenance
- -->
+```
 
 3. teach kids to think for themselves:
 - elementary: ask  "why" questions, other reasons/possibilities?
@@ -131,7 +132,7 @@ tags:
 - authentic feedback and criticism (criticize action, don't place blame)
 - be good model yourself
 
-6. some things child should experience by 18 (longer list in book):
+6. some things child should experience by 18 (longer list in book)
 
 7. look at schools other than "the top"
 - be realistic about the odds
