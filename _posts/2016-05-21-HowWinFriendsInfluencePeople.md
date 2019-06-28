@@ -15,7 +15,6 @@ tags:
     - Arouse in the other person true interests. 
 
 - Six Ways to Make People Like You
-
 1. Become genuinely interested in people.
 2. Smile.
 3. Remember that a person's name is, to that person, the sweetest and most important sound in any language.
@@ -39,7 +38,6 @@ tags:
 12. Throw down a challenge.
 
 - Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
-
 1. Begin with praise and honest appreciation.
 2. Call attention to people's mistakes indirectly.
 3. Talk about your own mistakes before criticizing the other person.
