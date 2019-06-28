@@ -6,16 +6,6 @@ tags:
 ---
 
 
-### The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future
-- [URL](https://www.goodreads.com/book/show/12605157-the-100-startup)
-- Great Summary @ [URL](https://www.forbes.com/sites/ericwagner/2012/09/27/the-100-startup-entrepreneur/#3f4cc16414c9)
-- “Catch a man a fish, and you can sell it to him. Teach a man to fish -- and you ruin a wonderful business opportunity” - Karl Marx
-- Listen -- figure out the pain of your customer so you can deliver a unique cure in a profitable way.
-- Treating our customers in marketing efforts like real people: “customer profiling”: Interests, Passions, Skills, Beliefs, Values
-- The deeper you engage and know your ideal customer; the easier it is for them to buy from you.
-- “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best as you keep tweaking some more is incredible, especially when your customer numbers go up.
-
-
 
 ### 12 Rules for Life: An Antidote to Chaos: Jordan B. Peterson .
 - [URL](https://en.wikipedia.org/wiki/12_Rules_for_Life)
@@ -34,24 +24,6 @@ tags:
 + Pet a cat when you encounter one on the street
 
 
-### The millionaire next door
-
-- [URL](https://www.amazon.com/dp/B00CLT31D6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
-### Rich dad poor dad
-
-- [URL](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680178/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1497746658&sr=1-1)
-
-
-### Thinking and grow rich
-
-- [URL](https://www.amazon.com/dp/B007RHO316/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
-
-### 48 Laws of Power
-
-- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
-
 
 ### The Middle Passage: From Misery to Meaning in Midlife” by James Hollis
 
@@ -67,7 +39,6 @@ If our courage holds, the Middle Passage brings us back to life after we have be
 
 - [URL](https://www.amazon.com/Road-Less-Traveled-Timeless-Traditional/dp/0743243153)
 
-
 - the opening lines: "Life is difficult. This is a great truth, one of the greatest truths. It is a great truth because once we truly see this truth, we transcend it. Once we truly know that life is difficult--once we truly understand and accept it--then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters."
 
 - then the books starts with the four tools/techniques of handling suffering, the discipline - to experience the pain of problems constructively. 
@@ -78,3 +49,10 @@ If our courage holds, the Middle Passage brings us back to life after we have be
 4. balancing. 
 
 The books pointed out that the life problems cannot be avoided in life. To experience happiness, they need to be identified and solved: "Problems do not go away. They must be worked through or else they remain, forever a barrier to the growth and development of the spirit." 
+
+
+
+### 48 Laws of Power
+
+- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+

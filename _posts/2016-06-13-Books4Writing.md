@@ -6,9 +6,10 @@ tags:
 ---
 
 
-### Book Title: Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded
-- [URL](https://www.goodreads.com/book/show/13122323-writing-science)
-- Most important tip: As a scientist, you are a professional writer.
+### Book Title: The-Elements-of-Style
+- [URL](https://www.audible.com/pd/The-Elements-of-Style-Recorded-Books-Edition-Audiobook/B002V1NRTW)
+- Best book to improve your writing 
+
 
 
 ### Book Title: Style towards Clarify and Grace
@@ -18,11 +19,13 @@ tags:
 - Tip: Use a mind map to lay out the main sections and subsections of the “story”, and then add details to flesh out the narrative. Introduce the topic with the first sentence of the first paragraph, then end the first paragraph with your topic sentence. 
 - Tip: Write in active voice. Use passive voice when you need it or when it will add to the grace and style of the writing.
 
-### Book Title: The-Elements-of-Style
-- [URL](https://www.audible.com/pd/The-Elements-of-Style-Recorded-Books-Edition-Audiobook/B002V1NRTW)
+
+
+### Book Title: Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded
+- [URL](https://www.goodreads.com/book/show/13122323-writing-science)
+- Most important tip: As a scientist, you are a professional writer.
+
 
 
 ### Book Title: On Writing Well 
 - [URL](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
-
-
