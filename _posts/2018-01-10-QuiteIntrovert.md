@@ -3,9 +3,8 @@ layout: post
 title: Quiet- The Power of Introverts in a World That Can't Stop Talking
 tags:
 - Critical-Thinking
-- Self-Development
+- Self-Develop
 - must-read
-- Science
 ---
 
 

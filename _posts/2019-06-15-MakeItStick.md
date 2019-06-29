@@ -4,6 +4,7 @@ title: Make It Stick- The Science of Successful Learning
 tags:
 - Critical-Thinking
 - must-read
+- Self-Develop
 ---
 
 

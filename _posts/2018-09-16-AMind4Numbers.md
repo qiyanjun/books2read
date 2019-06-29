@@ -3,7 +3,7 @@ layout: post
 title: A Mind for Numbers- How to Excel at Math and Science (Even If You Flunked Algebra)
 tags:
 - Critical-Thinking
-- Self-Development
+- Self-Develop
 ---
 
 

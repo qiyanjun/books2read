@@ -2,7 +2,7 @@
 layout: post
 title: How to think like Leonardo da Vinci
 tags:
-- Self-Development
+- Self-Develop
 ---
 
 [URL](https://www.goodreads.com/book/show/598506.How_to_Think_Like_Leonardo_da_Vinci)

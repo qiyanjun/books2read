@@ -2,7 +2,7 @@
 layout: post
 title: The 7 Habits of Effective People
 tags:
-- Self-Development
+- Self-Develop
 - must-read
 ---
 

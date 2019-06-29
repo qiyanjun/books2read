@@ -4,7 +4,7 @@ title: Smarter-Faster-Better-The-Secrets-of-Being-Productive-in-Life-and-Busines
 tags:
 - Career-guides
 - must-read
-- Self-Development
+- Self-Develop
 ---
 
 

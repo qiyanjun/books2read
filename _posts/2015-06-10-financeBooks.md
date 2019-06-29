@@ -6,15 +6,6 @@ tags:
 ---
 
 
-### The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future
-- [URL](https://www.goodreads.com/book/show/12605157-the-100-startup)
-- Great Summary @ [URL](https://www.forbes.com/sites/ericwagner/2012/09/27/the-100-startup-entrepreneur/#3f4cc16414c9)
-- “Catch a man a fish, and you can sell it to him. Teach a man to fish -- and you ruin a wonderful business opportunity” - Karl Marx
-- Listen -- figure out the pain of your customer so you can deliver a unique cure in a profitable way.
-- Treating our customers in marketing efforts like real people: “customer profiling”: Interests, Passions, Skills, Beliefs, Values
-- The deeper you engage and know your ideal customer; the easier it is for them to buy from you.
-- “The not-so-secret to improving income in an existing business is through tweaks; small changes that create a big impact. Keeing tweaking/ experimenting: the power of tweaking things, measuring them; and then picking the best as you keep tweaking some more is incredible, especially when your customer numbers go up.
-
 
 ### 48 Laws of Power
 - [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
@@ -23,7 +14,7 @@ tags:
 1. Start saving now
 2. Invest in low-cost index funds
 3. Ask if your adviser is a fiduciary
-4. Gradually shift investments from stocks to bonds as you get older
+4. Gradually shift investments from stocks to bonds as getting older
 5. Keep your fees under 1%
 
 

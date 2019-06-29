@@ -3,7 +3,7 @@ layout: post
 title: How to Win Friends and Influence People
 tags:
 - must-read
-- Self-Development
+- Self-Develop
 ---
 
 
@@ -23,7 +23,6 @@ tags:
 6. Make the other person feel important and do it sincerely.
 
 - Twelve Ways to Win People to Your Way of Thinking
-
 1. The only way to get the best of an argument is to avoid it.
 2. Show respect for the other person's opinions. Never say "You're Wrong."
 3. If you're wrong, admit it quickly and emphatically.

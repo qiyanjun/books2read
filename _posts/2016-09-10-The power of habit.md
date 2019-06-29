@@ -2,7 +2,7 @@
 layout: post
 title: The Power of Habit- Why We Do What We Do in Life and Business
 tags:
-- Self-Development
+- Self-Develop
 - must-read
 - Critical-Thinking
 ---

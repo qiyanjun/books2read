@@ -2,7 +2,7 @@
 layout: post
 title: The Happiness Hypothesis- Finding Modern Truth in Ancient Wisdom
 tags:
-- Self-Development
+- Self-Develop
 ---
 
 
