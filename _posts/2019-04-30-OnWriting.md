@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Writing
+title: On Writing by Stephen King
 tags:
 - 0Writing
 ---
