@@ -16,21 +16,29 @@ Book title: Make It Stick- The Science of Successful Learning 1st Edition
 - Great summary from [URL](https://www.retrievalpractice.org/make-it-stick)
 - The following basically paraphrasing the review from the above book summary: 
 
-1. “Learning is Misunderstood”: A common misunderstanding about learning:  re-reading is an effective study strategy – but it’s not. Re-reading gives students confidence that they know something when they actually don’t. 
+### Chapter 1. 
+“Learning is Misunderstood”: A common misunderstanding about learning:  re-reading is an effective study strategy – but it’s not. Re-reading gives students confidence that they know something when they actually don’t. 
 
-2. “To Learn, Retrieve.”; Testing is one effective retrieval strategy to improve learning.
+### Chapter 2. 
+“To Learn, Retrieve.”; Testing is one effective retrieval strategy to improve learning.
 
-3. “Mix Up Your Practice,” the authors present research on two robust teaching strategies: spacing and interleaving. Research demonstrates that simply spacing out or rearranging and mixing up concepts can yield a large boost in learning.
+### Chapter 3. 
+“Mix Up Your Practice,” the authors present research on two robust teaching strategies: spacing and interleaving. Research demonstrates that simply spacing out or rearranging and mixing up concepts can yield a large boost in learning.
 
-4. “Embrace Difficulties” during learning. The authors point out that contrary to popular belief, making errors during retrieval is a good thing for learning. 
+### Chapter 4. 
+“Embrace Difficulties” during learning. The authors point out that contrary to popular belief, making errors during retrieval is a good thing for learning. 
 
-5. “Avoid Illusions of Knowing.” Students consistently predict higher test performance following ineffective strategies (e.g., re-reading) compared to more effective strategies (e.g., retrieval practice). Numerous studies reveal that students drop flashcards too fast due to poor metacognition and awareness of their own knowledge.
+### Chapter 5. 
+“Avoid Illusions of Knowing.” Students consistently predict higher test performance following ineffective strategies (e.g., re-reading) compared to more effective strategies (e.g., retrieval practice). Numerous studies reveal that students drop flashcards too fast due to poor metacognition and awareness of their own knowledge.
 
-6.“Get Beyond Learning Styles.” The authors point out that no empirical evidence that teaching students consistent with their “learning style” (e.g. auditory, visual or through experience) will improve learning. In contrast, methods supported by scientific evidence – including retrieval – are robust and reliable methods that improve student learning in the classroom.
+### Chapter  6.
+“Get Beyond Learning Styles.” The authors point out that no empirical evidence that teaching students consistent with their “learning style” (e.g. auditory, visual or through experience) will improve learning. In contrast, methods supported by scientific evidence – including retrieval – are robust and reliable methods that improve student learning in the classroom.
 
-7. How to “Increase Your Abilities.” One method the authors highlight is a growth mindset, or the belief that learning and intelligence are malleable rather than fixed. Growth mindset encourages students to focus on learning and growing with increasing challenges, rather than performance at one point in time. 
+### Chapter 7. 
+How to “Increase Your Abilities.” One method the authors highlight is a growth mindset, or the belief that learning and intelligence are malleable rather than fixed. Growth mindset encourages students to focus on learning and growing with increasing challenges, rather than performance at one point in time. 
 
-8. “Make it Stick,” the final chapter is a list of tips provide tips: 
+### Chapter 8. 
+“Make it Stick,” the final chapter is a list of tips provide tips: 
 
 - Possible retrieval practices:  Clickers or Colored Index Cards
   + Clickers or Paper-and-pencil and computer or web-based quizzes: for gaining instant feedback for both the student and the teacher, but the key to retrieval practice is to engage students in recalling information from memory. 
