@@ -53,3 +53,16 @@ The books pointed out that the life problems cannot be avoided in life. To exper
 
 
 
+### Intentional Living: Choosing a Life That Matters by [Maxwell, John C.]
+- By John C. Maxwell
+
+- Every major accomplishment that's ever been achieved started with a first step. Sometimes it's hard; other times it's easy, but no matter what, you have to do it if you want to get anywhere in life. 
+
+- powerful ideas and actions you can take to get some momentum on your mission like; start small but believe big, search until you find your why, add value to others from your sweet spot, connect with like-minded people, and more.
+
+- good review from amazon
+1. To Add Value to Others I Must First Value Myself
+2. To Add Value to Others I Must Value Others
+3. To Add Value to Others I Must Value What Others Have Done for Me
+4. To Add Value to Others I Must Know and Relate to What Others Value
+5. To Add Value to Others I Must Make Myself More Valuable
