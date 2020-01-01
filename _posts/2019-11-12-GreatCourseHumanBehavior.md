@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nderstanding the Mysteries of Human Behavior
+title: Understanding the Mysteries of Human Behavior
 tags:
 - Science
 ---
