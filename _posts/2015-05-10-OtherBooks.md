@@ -53,8 +53,11 @@ The books pointed out that the life problems cannot be avoided in life. To exper
 
 
 
-### Intentional Living: Choosing a Life That Matters by [Maxwell, John C.]
+### Intentional Living: Choosing a Life That Matters 
+
 - By John C. Maxwell
+
+- [URL](https://www.amazon.com/dp/B00T3E787W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 - Every major accomplishment that's ever been achieved started with a first step. Sometimes it's hard; other times it's easy, but no matter what, you have to do it if you want to get anywhere in life. 
 
