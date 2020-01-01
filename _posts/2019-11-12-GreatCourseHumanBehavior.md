@@ -1,9 +1,8 @@
 ---
 layout: post
-title: The Book of Why- The New Science of Cause and Effect
+title: nderstanding the Mysteries of Human Behavior
 tags:
 - Science
-- My-Favorite
 ---
 
 

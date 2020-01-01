@@ -2,7 +2,7 @@
 layout: post
 title: Ego Is the Enemy 
 tags:
-- Science
+- Critical-Thinking
 - My-Favorite
 ---
 
