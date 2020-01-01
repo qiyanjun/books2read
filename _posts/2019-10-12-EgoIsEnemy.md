@@ -11,7 +11,7 @@ tags:
 - [URL](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 - by RYAN HOLIDAY  2016 
 
-- three main parts 
+- three main parts / great summary from [here](http://roaddelta.com/ego-enemy-book-summary/)
 
 1. Aspire, wanting to accomplish bigger and better goals.
 2. Success, achieving our goals and receiving public praise.
