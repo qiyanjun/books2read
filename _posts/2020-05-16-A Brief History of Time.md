@@ -3,7 +3,6 @@ layout: post
 title: A Brief History of Time
 tags:
 - Science
-- must-read
 ---
 
 

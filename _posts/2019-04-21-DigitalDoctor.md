@@ -3,7 +3,6 @@ layout: post
 title: The Digital Doctor- Hope, Hype, and Harm at the Dawn of Medicine’s Computer Age
 tags:
 - Science
-- Critical-Thinking
 ---
 
 

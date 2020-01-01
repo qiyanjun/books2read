@@ -2,7 +2,7 @@
 layout: post
 title: How to Win Friends and Influence People
 tags:
-- must-read
+- My-Favorite
 - Self-Develop
 ---
 

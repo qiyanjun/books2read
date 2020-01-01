@@ -3,8 +3,6 @@ layout: post
 title: Neanderthal Man- In Search of Lost Genomes
 tags:
 - Science
-- Critical-Thinking
-- must-read
 ---
 
 

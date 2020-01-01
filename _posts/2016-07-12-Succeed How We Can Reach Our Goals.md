@@ -2,7 +2,6 @@
 layout: post
 title: Succeed-How-We-Can-Reach-Our-Goals
 tags:
-- must-read
 - Self-Develop
 ---
 

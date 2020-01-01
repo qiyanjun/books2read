@@ -3,7 +3,7 @@ layout: post
 title: Thinking, Fast and Slow
 tags:
 - Science
-- must-read
+- My-Favorite
 ---
 
 

@@ -4,7 +4,7 @@ title: Quiet- The Power of Introverts in a World That Can't Stop Talking
 tags:
 - Critical-Thinking
 - Self-Develop
-- must-read
+- My-Favorite
 ---
 
 
