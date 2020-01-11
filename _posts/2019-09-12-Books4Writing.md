@@ -27,5 +27,7 @@ tags:
 
 
 
-### Book Title: On Writing Well 
+### Book Title: On Writing Well: The Classic Guide to Writing Nonfiction 
+
+- by William Zinsser
 - [URL](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
