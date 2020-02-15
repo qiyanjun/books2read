@@ -2,7 +2,6 @@
 layout: post
 title: Your-Deceptive-Mind-A-Scientific-Guide-to-Critical-Thinking-Skills
 tags:
-- Critical-Thinking
 - Science
 ---
 

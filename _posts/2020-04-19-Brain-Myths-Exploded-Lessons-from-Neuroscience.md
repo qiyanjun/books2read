@@ -3,7 +3,6 @@ layout: post
 title: Brain-Myths-Exploded-Lessons-from-Neuroscience
 tags:
 - Science
-- Critical-Thinking
 ---
 
 
