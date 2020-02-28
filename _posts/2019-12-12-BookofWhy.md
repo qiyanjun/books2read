@@ -15,7 +15,7 @@ by Judea Pearl and Dana MacKenzie
 
 - INTRODUCTION Mind over Data 1
   + “If	causation	is	not	correlation,	then	what	is	it?	" 
-  + Figures 
+  + "well articulated discussion of causal inference - what it is, what the available tools are (RCTs, IVs, matching, etc), how they have changed over the years, and how they could be improved. The bits that tell the history of causal inference are especially illuminating;""
 
   <img src="{{ site.baseurl }}/pic/why.png" alt="drawing" width="800"/>
 
@@ -40,12 +40,9 @@ the structural relationships that a researcher assumes are driving empirical
 results."" 
 
 
-  <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
-
-  <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
-
+ 
 - CHAPTER 4 Confounding and Deconfounding: Or, Slaying the Lurking Variable 135
-+ "The structure of the graphical model, including the identification
+  + "The structure of the graphical model, including the identification
 of vertices as mediators, confounders, or colliders, guides experimental design through the identification of minimal sets of control variables"
 
 
@@ -53,7 +50,16 @@ of vertices as mediators, confounders, or colliders, guides experimental design 
 - CHAPTER 5 The Smoke-Filled Debate: Clearing the Air 167  
   + Figures 
 
-  + The graphical approach to causal inference that Pearl favors has been
+ <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
+
+  <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
+
+ 
+
+- CHAPTER 6 Paradoxes Galore! 189
+
+
+ + The graphical approach to causal inference that Pearl favors has been
 influential, but it is not the only approach. 
  
   + Another influential model: "Neyman–Rubin potential outcomes model. In the language of medical randomized control trials, a researcher using this model tries to quantify the difference in impact between treatment and no treatment on subjects in an observational study.
@@ -69,8 +75,9 @@ to causal inference are far less important than their simmilarities. Support
 for this includes a construction by Thomas Richard and James Robins incorporating counterfactuals into graphical cause-and-effect models, thereby
 unifying various threads of the causal inference literature. [“Single world intervention graphs (SWIGS): A unification of the counterfactual and graphical approaches to causality.” April 2013.] " 
 
+- CHAPTER 7 Beyond Adjustment: The Conquest of Mount Intervention 219
+  + control cofounding 
 
-- CHAPTER 6 Paradoxes Galore! 189
   + "Results based on a causal model are no better than
 its underlying assumptions. These assumptions can represent a researcher’s
 knowledge and experience."
@@ -82,10 +89,17 @@ of interest in assumptions—these norms are likely to generate a
 flood of non-reproducible results."
 
 
-- CHAPTER 7 Beyond Adjustment: The Conquest of Mount Intervention 219
-  + control cofounding 
 
 - CHAPTER 8 Counterfactuals: Mining Worlds That Could Have Been 259
+  + More from Statist. Surv. Volume 3 (2009), 96-146. Causal inference in statistics: An overview,  by Judea Pearl illustrated using a general theory of causation based on the Structural Causal Model (SCM) described in Pearl (2000a), which subsumes and unifies other approaches to causation, and provides a coherent mathematical foundation for the analysis of causes and counterfactuals. 
+
+  + In particular, the paper surveys the development of mathematical tools for inferring (from a combination of data and assumptions) answers to three types of causal queries: 
+  + (1) queries about the effects of potential interventions, (also called “causal effects” or “policy evaluation”) 
+  + (2) queries about probabilities of counterfactuals, (including assessment of “regret,” “attribution” or “causes of effects”) and 
+  + (3) queries about direct and indirect effects (also known as “mediation”). 
+
+  + Finally, the paper defines the formal and conceptual relationships between the structural and potential-outcome frameworks and presents tools for a symbiotic analysis that uses the strong features of both.
+
 
 - CHAPTER 9 Mediation: The Search for a Mechanism 299
 
@@ -95,4 +109,4 @@ flood of non-reproducible results."
 - Some other comments from [here](https://www.goodreads.com/book/show/36204378-the-book-of-why)
   + "Pearl promotes his extension of probability calculus and nonparametric structural equation models (directed acyclic graphs or DAGs) as the solution to the problem of inferring causes from observational data. "
   + "f you have good subject knowledge about a research topic, you will have an understanding of the dependencies between relevant variables and you can use graphical methods as one of the tools to clarify the implications of the model, but that's really it."
-   + "well articulated discussion of causal inference - what it is, what the available tools are (RCTs, IVs, matching, etc), how they have changed over the years, and how they could be improved. The bits that tell the history of causal inference are especially illuminating;""
+   
