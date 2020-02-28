@@ -7,3 +7,6 @@ tags:
 ---
 
 
+###  Title: The Book of Why- The New Science of Cause and Effect  
+by Judea Pearl and Dana MacKenzie
+- [URL](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
