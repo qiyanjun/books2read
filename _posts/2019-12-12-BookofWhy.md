@@ -39,9 +39,10 @@ with data to produce quantitative causal estimates. The graph embodies
 the structural relationships that a researcher assumes are driving empirical
 results."" 
 
-  <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="500"/>
 
   <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
+
+  <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
 
 - CHAPTER 4 Confounding and Deconfounding: Or, Slaying the Lurking Variable 135
 + "The structure of the graphical model, including the identification
