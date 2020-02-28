@@ -48,20 +48,16 @@ of vertices as mediators, confounders, or colliders, guides experimental design 
 
 
 - CHAPTER 5 The Smoke-Filled Debate: Clearing the Air 167  
-  + Figures 
+ 
+    <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
 
- <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
-
-  <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
+    <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
 
  
 
 - CHAPTER 6 Paradoxes Galore! 189
-
-
- + The graphical approach to causal inference that Pearl favors has been
+  + The graphical approach to causal inference that Pearl favors has been
 influential, but it is not the only approach. 
- 
   + Another influential model: "Neyman–Rubin potential outcomes model. In the language of medical randomized control trials, a researcher using this model tries to quantify the difference in impact between treatment and no treatment on subjects in an observational study.
 Propensity scores are matched in an attempt to balance inequities between
 treated and untreated subjects."   Since no subject can be both treated and
