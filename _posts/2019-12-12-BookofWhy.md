@@ -50,18 +50,24 @@ of vertices as mediators, confounders, or colliders, guides experimental design 
 
 
 
+
+<img src="{{ site.baseurl }}/pic/why3.png" alt="drawing" width="500"/>
+
+<img src="{{ site.baseurl }}/pic/why5.png" alt="drawing" width="500"/>
+
+   <img src="{{ site.baseurl }}/pic/why4.png" alt="drawing" width="500"/>
+  
+
 - CHAPTER 5 The Smoke-Filled Debate: Clearing the Air 167  
   + unable to use RCT to answer "the smoke debate"
 
-    <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
-
-    <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="700"/>
-
+  
  
 
 - CHAPTER 6 Paradoxes Galore! 189
   + a chapter of paradoxes: the Monty Hall paradox, Simpson's paradox, Berkson's paradox and others. 
 
+<img src="{{ site.baseurl }}/pic/why6.png" alt="drawing" width="500"/>
 
 - CHAPTER 7 Beyond Adjustment: The Conquest of Mount Intervention 219
   + explains the "causal inference engine": that produces yes/no answer and estimation of proportion contribution 
@@ -70,14 +76,20 @@ of vertices as mediators, confounders, or colliders, guides experimental design 
   + The graphical approach to causal inference that Pearl favors has been
   influential, but it is not the only approach. 
 
-
-  <img src="{{ site.baseurl }}/pic/why3.png" alt="drawing" width="500"/>
-
-    <img src="{{ site.baseurl }}/pic/why4.png" alt="drawing" width="700"/>
+ 
+   <img src="{{ site.baseurl }}/pic/why8.png" alt="drawing" width="500"/>
 
 
+    
 
+  <img src="{{ site.baseurl }}/pic/why7.png" alt="drawing" width="500"/>
+
+  
 - CHAPTER 8 Counterfactuals: Mining Worlds That Could Have Been 259
+ 
+  
+
+ 
   + Another influential model: "Neyman–Rubin potential outcomes model. In the language of medical randomized control trials, a researcher using this model tries to quantify the difference in impact between treatment and no treatment on subjects in an observational study.
 Propensity scores are matched in an attempt to balance inequities between
 treated and untreated subjects."   Since no subject can be both treated and
@@ -98,11 +110,7 @@ missing value problem.
   + Finally, the paper defines the formal and conceptual relationships between the structural and potential-outcome frameworks and presents tools for a symbiotic analysis that uses the strong features of both.
 
 
-  <img src="{{ site.baseurl }}/pic/why5.png" alt="drawing" width="500"/>
-
-    <img src="{{ site.baseurl }}/pic/why6.png" alt="drawing" width="700"/>
-
-  <img src="{{ site.baseurl }}/pic/why7.png" alt="drawing" width="500"/>
+ 
 
 
 
@@ -110,13 +118,13 @@ missing value problem.
   + Total effect = direct effect + indirect effect ??? 
   + Total effect (x=0 -> x=1 ) = NDE(x=0-> x=1) - NIE(x=1 -> x=0) 
 
-    <img src="{{ site.baseurl }}/pic/why8.png" alt="drawing" width="700"/>
-    <img src="{{ site.baseurl }}/pic/why9.png" alt="drawing" width="700"/>
-    <img src="{{ site.baseurl }}/pic/why10.png" alt="drawing" width="700"/>
+ 
+    <img src="{{ site.baseurl }}/pic/why9.png" alt="drawing" width="500"/>
+  
 
 
 - CHAPTER 10 Big Data, Artificial Intelligence, and the Big Questions 349
-
+  <img src="{{ site.baseurl }}/pic/why10.png" alt="drawing" width="500"/>
 
 - Some other comments from [here](https://www.goodreads.com/book/show/36204378-the-book-of-why)
   + "Pearl promotes his extension of probability calculus and nonparametric structural equation models (directed acyclic graphs or DAGs) as the solution to the problem of inferring causes from observational data. "
@@ -138,5 +146,7 @@ the search for significance, the preference for novelty, and the lack
 of interest in assumptions—these norms are likely to generate a
 flood of non-reproducible results."
 
- 
+  <img src="{{ site.baseurl }}/pic/why2.png" alt="drawing" width="500"/>
+
+    <img src="{{ site.baseurl }}/pic/why1.png" alt="drawing" width="500"/>
    
