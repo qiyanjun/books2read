@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Guns, Germs, and Steel - The Fates of Human Societies
 tags:
 - Science

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How to think like Leonardo da Vinci
 tags:
 - Self-Develop

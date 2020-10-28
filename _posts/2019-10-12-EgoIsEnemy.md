@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ego Is the Enemy 
 tags:
 - Critical-Thinking

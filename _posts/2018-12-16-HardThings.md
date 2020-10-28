@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Hard Thing About Hard Things- Building a Business When There Are No Easy Answers
 tags:
 - Critical-Thinking

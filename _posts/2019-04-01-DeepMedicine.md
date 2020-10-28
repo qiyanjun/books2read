@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Deep Medicine- How Artificial Intelligence Can Make Healthcare Human Again
 tags:
 - Science

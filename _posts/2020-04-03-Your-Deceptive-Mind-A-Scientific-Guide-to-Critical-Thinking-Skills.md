@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Your-Deceptive-Mind-A-Scientific-Guide-to-Critical-Thinking-Skills
 tags:
 - Science

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Succeed-How-We-Can-Reach-Our-Goals
 tags:
 - Self-Develop

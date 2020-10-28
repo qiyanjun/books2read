@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Make It Stick- The Science of Successful Learning 
 tags:
 - Critical-Thinking

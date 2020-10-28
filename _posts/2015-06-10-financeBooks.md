@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Useful Books about Finance
 tags:
 - Useful-Other

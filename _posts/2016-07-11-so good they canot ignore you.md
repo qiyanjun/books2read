@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: So Good They Cannot Ignore You- Why Skills Trump Passion in the Quest for Work You Love
 tags:
 - Career-guides

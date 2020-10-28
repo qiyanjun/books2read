@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Quiet- The Power of Introverts in a World That Can't Stop Talking
 tags:
 - Critical-Thinking

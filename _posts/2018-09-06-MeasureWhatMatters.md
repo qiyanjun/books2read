@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Measure What Matters by John Doerr
 tags:
 - Career-guides

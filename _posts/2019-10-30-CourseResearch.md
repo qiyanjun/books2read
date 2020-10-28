@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Effective Research Methods for Any Project
 tags:
 - Science

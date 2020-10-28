@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Lean Startup- How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 tags:
 - Critical-Thinking

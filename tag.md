@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Book Index (by Tags)
 desc: "A list of posts organized by tags"
 ---

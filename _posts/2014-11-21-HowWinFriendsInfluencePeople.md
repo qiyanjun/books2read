@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How to Win Friends and Influence People
 tags:
 - My-Favorite

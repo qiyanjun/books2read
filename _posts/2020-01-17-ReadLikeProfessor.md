@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Read Literature Like a Professor
 tags:
 - 0Writing

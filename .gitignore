@@ -1,0 +1,7 @@
+# cache for  output
+.jekyll-cache
+
+# compiled site files
+_site
+
+Gemfile.lock

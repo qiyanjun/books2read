@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Posts Feed
 desc: "A list of all blog posts"
 ---

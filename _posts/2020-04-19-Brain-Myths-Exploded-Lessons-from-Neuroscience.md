@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Brain-Myths-Exploded-Lessons-from-Neuroscience
 tags:
 - Science

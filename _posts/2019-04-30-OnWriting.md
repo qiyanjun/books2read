@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: On Writing by Stephen King
 tags:
 - 0Writing

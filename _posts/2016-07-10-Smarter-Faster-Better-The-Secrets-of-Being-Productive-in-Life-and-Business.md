@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Smarter-Faster-Better-The-Secrets-of-Being-Productive-in-Life-and-Business
 tags:
 - Career-guides

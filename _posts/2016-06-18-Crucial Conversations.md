@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Crucial Conversations- Tools for Talking When Stakes Are High
 tags:
 - Self-Develop

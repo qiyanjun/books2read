@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The 7 Habits of Effective People
 tags:
 - Self-Develop
