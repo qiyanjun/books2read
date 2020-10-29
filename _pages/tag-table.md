@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Book Index (by Tags)
-desc: "Posts organized by tags"
+permalink: /tag-table/
+author_profile: true
+title: Book by Tags as Tables
 ---
 
 Click on a tag to see relevant list of posts.

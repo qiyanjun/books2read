@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Posts Feed
-desc: "A list of all read posts"
+title: "Posts as Blog"
+permalink: /blog-list/
+author_profile: true
 ---
 
 

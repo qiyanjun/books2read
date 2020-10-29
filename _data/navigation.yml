@@ -1,12 +1,13 @@
-# main links
 main:
-   - title: "Posts by Tag"
-     url: /tag/
-   - title: "Posts by Date"
-     url: /blog/
-   - title: "Github"
-     url: https://github.com/qiyanjun/books2read
-   - title: "About Me"
-     url: http://www.cs.virginia.edu/yanjun/
-   - title: "@Qdatalab"
-     url: https://twitter.com/Qdatalab
+  - title: "PostsByDate"
+    url: /posts/
+  - title: "PostsAsBlog"
+    url: /blog-list/
+  - title: "TagAsTable"
+    url: /tag-table/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+  #- title: "Categories"
+  #  url: /categories/
