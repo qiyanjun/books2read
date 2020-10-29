@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /tag-table/
+permalink: /tag/
 author_profile: true
 title: Book by Tags as Tables
 ---

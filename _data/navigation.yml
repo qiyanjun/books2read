@@ -4,7 +4,7 @@ main:
   - title: "PostsAsBlog"
     url: /blog-list/
   - title: "TagAsTable"
-    url: /tag-table/
+    url: /tag/
   - title: "Tags"
     url: /tags/
   - title: "About"
