@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Book Index (by Tags)
-desc: "A list of posts organized by tags"
+desc: "Posts organized by tags"
 ---
 
 Click on a tag to see relevant list of posts.

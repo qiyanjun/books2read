@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Posts Feed
-desc: "A list of all blog posts"
+desc: "A list of all read posts"
 ---
 
 
