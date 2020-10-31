@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /tag/
 author_profile: true
 title: Book by Tags as Tables

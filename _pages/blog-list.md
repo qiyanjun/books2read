@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Posts as Blog"
 permalink: /blog-list/
 author_profile: true
