@@ -68,7 +68,7 @@ plugins:
 
 author:
   name   : "Yanjun Qi"
-  avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/pic/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am science curious. (I am an associate professor (tenured) at the Department of Computer Science , University of Virginia.)"
   links:
     - label: "HomePage"
