@@ -23,7 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: Qdatalab
 github_username:  qiyanjun
 
-
+baseurl:        /books2read/
+url:            https://qiyanjun.github.io/
 
 # minimal_m settings
 minimal_mistakes_skin: "default"
