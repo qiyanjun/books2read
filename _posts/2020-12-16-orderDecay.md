@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy
+title: Political Order and Political Decay From the Industrial Revolution to the Globalization of Democracy
 tags:
 - Science
 ---
