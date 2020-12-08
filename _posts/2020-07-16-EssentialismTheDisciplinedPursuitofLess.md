@@ -2,7 +2,8 @@
 layout: single
 title: Essentialism The Disciplined Pursuit of Less
 tags:
-- Science
+- Critical-Thinking
+- My-Favorite
 ---
 
 

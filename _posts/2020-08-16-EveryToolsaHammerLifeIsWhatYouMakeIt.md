@@ -2,7 +2,7 @@
 layout: single
 title: Every Tools a Hammer Life Is What You Make It
 tags:
-- Science
+- Critical-Thinking
 ---
 
 

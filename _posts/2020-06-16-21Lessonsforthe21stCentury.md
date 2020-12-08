@@ -3,6 +3,8 @@ layout: single
 title: 21 Lessons for the 21st Century
 tags:
 - Science
+- Critical-Thinking
+- My-Favorite
 ---
 
 

@@ -2,7 +2,8 @@
 layout: single
 title: The Speed of Trust The One Thing that Changes Everything
 tags:
-- Science
+- Critical-Thinking
+- My-Favorite
 ---
 
 
