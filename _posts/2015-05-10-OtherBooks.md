@@ -69,3 +69,10 @@ The books pointed out that the life problems cannot be avoided in life. To exper
 3. To Add Value to Others I Must Value What Others Have Done for Me
 4. To Add Value to Others I Must Know and Relate to What Others Value
 5. To Add Value to Others I Must Make Myself More Valuable
+
+
+
+
+### 48 Laws of Power
+- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+- a bit weird

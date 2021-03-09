@@ -7,17 +7,6 @@ tags:
 
 
 
-### 48 Laws of Power
-- [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
-
-#### five tips for people saving for retirement.
-1. Start saving now
-2. Invest in low-cost index funds
-3. Ask if your adviser is a fiduciary
-4. Gradually shift investments from stocks to bonds as getting older
-5. Keep your fees under 1%
-
-
 
 ### The millionaire next door
 
@@ -27,6 +16,14 @@ tags:
   + live below your means and prioritize financial security over social standing; 
   + investing the rest, over time you're going to be in great shape.
   + interesting observation: Parents giving money to their children develops and reinforces poor financial habits. 
+
+
+#### five tips for people saving for retirement.
+1. Start saving now
+2. Invest in low-cost index funds
+3. Ask if your adviser is a fiduciary
+4. Gradually shift investments from stocks to bonds as getting older
+5. Keep your fees under 1%
 
 
 ### Thinking and grow rich
