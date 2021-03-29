@@ -4,6 +4,7 @@ title: Thinking, Fast and Slow
 tags:
 - Science
 - My-Favorite
+- Management
 ---
 
 

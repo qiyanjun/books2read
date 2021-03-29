@@ -4,6 +4,7 @@ title: The Hard Thing About Hard Things- Building a Business When There Are No E
 tags:
 - Critical-Thinking
 - Career-guides
+- Management
 ---
 
 

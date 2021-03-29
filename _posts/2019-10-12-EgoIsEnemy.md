@@ -4,6 +4,7 @@ title: Ego Is the Enemy
 tags:
 - Critical-Thinking
 - My-Favorite
+- Management
 ---
 
 

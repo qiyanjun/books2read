@@ -2,6 +2,7 @@
 layout: single
 title: Crucial Conversations- Tools for Talking When Stakes Are High
 tags:
+- Management
 - Self-Develop
 ---
 

@@ -75,4 +75,4 @@ The books pointed out that the life problems cannot be avoided in life. To exper
 
 ### 48 Laws of Power
 - [URL](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
-- a bit weird
+- old style

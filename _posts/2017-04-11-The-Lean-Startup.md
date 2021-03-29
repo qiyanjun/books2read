@@ -4,6 +4,7 @@ title: The Lean Startup- How Today's Entrepreneurs Use Continuous Innovation to 
 tags:
 - Critical-Thinking
 - Career-guides
+- Management
 ---
 
 ### title: Lean Startup- How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
