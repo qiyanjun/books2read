@@ -18,8 +18,8 @@ tags:
 
 
 - The “wardrobe” metaphor: cluttered and disorganized.  have difficulty finding clothes, and  no place for new ones. To address this problem in three parts.
-  + 1. The first is to “Explore and Evaluate." / stronger question: “Do I love this?”  maps to questions like  “Will this activity or effort make the highest possible contribution towards my goal?” 
-  + 2. The next is the “Eliminate” step. This is the step to prevent  having 10 top priorities. via questions like: “If I didn’t have this opportunity, what would I be willing to do to acquire it?” The author McKeown describes how to rid yourself of the non-essentials in a way that earns you respect from colleagues, management, and clients.
+  + The first is to “Explore and Evaluate." / stronger question: “Do I love this?”  maps to questions like  “Will this activity or effort make the highest possible contribution towards my goal?” 
+  + The next is the “Eliminate” step. This is the step to prevent  having 10 top priorities. via questions like: “If I didn’t have this opportunity, what would I be willing to do to acquire it?” The author McKeown describes how to rid yourself of the non-essentials in a way that earns you respect from colleagues, management, and clients.
   + The third step is to “Execute.” e.g., to decide be the recipient of the clothing, what time they are open, and to schedule that into your diary. Without the plan to see this through, they will return to your wardrobe, sooner or later.
   + One discipline required to be an essentialist: even being able to say “no” well, requires courage.
 

@@ -5,9 +5,10 @@ tags:
 - Self-Develop
 - Management
 - My-Favorite
+- business
 ---
 
-## Stanford 2014 Course: How to Start a Startup 
+## Title: Stanford 2014 Course shared online: How to Start a Startup 
 
 
 - [URL](https://startupclass.samaltman.com/lists/about/)
