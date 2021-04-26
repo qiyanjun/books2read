@@ -127,6 +127,7 @@ Parker Conrad, Founder, Zenefits
   + "what made you decide to invest in a founder company? ... SV Angel and its entities have invested in over 700 companies. To invest in 700 companies that means we have physically talked to thousands of entrepreneurs and there is a whole bunch of things that just go through my head when I meet an entrepreneur.
   + "Literally while you are talking to me in the first minute I am saying 
     - “Is this person a leader?” 
+    - “Is this person rightful, focused, and obsessed by the product?” 
     - the first question I ask is "What inspired you to create this product?"—I’m hoping that it’s based on a personal problem that that founder had and this product is the solution to that personal problem. 
     - Then I am looking for communication skills, because if you are going to be a leader and hire a team, assuming your product is successful, you have to be a really good communicator and you have to be a born leader. "
   + "invest in across stages".... "We invest in the seed stage, the venture stage, growth stage."
