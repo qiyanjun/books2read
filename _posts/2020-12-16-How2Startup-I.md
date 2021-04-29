@@ -8,6 +8,9 @@ tags:
 - business
 ---
 
+I find this series of lectures excellent in helping a faculty plan the team projects / manage group / and brand the team research. 
+
+
 ## Title: Stanford 2014 Course shared online: How to Start a Startup 
 (Part A)
 
