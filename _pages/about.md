@@ -32,11 +32,11 @@ As I look back on my 2010s, I have realized that the best part of my life so far
 
 [ Written On 2021/01/01 ]: I often received questions on what I remember the most as a first-generation college graduate, Ph.D. candidate, and faculty member. Here are a few moments. <BR> 
 
-1. The yummy $2 pizza I had once per day (that was my whole budget per day) in my first month of Carnegie Mellon graduate study. 
+1. The yummy $2 pizza I had once per day (that was my whole budget per day) in my first month of Carnegie Mellon graduate life.  The quiet and cozy Squirrel Hill apartment room my college friend let me live in for free for that month. 
 
-2. The quiet and cozy Squirrel Hill apartment room my college friend let me live in for free for that month. 
+<br>
 
-3. The small and cozy Engineering library at CMU old CS Wean Hall. 
+2. The beautiful, traditional-style Old library at Beijing Tsinghua University and the small, cozy Engineering library at Carnegie Mellon Univ' Wean Hall I have spent so much time in. 
 
 
 </div>
