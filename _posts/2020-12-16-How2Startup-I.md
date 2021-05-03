@@ -23,14 +23,15 @@ I find this series of lectures excellent in helping a faculty plan the team proj
 
 - First part (Lecture 1 to Lecture 10)
 
-1.	Welcome, and Ideas, Products, Teams and Execution Part I  --- Sam Altman, President, Y Combinator; Dustin Moskovitz, Cofounder, Facebook, Cofounder, Asana, Cofounder, Good Ventures 
+###  1.	Welcome, and Ideas, Products, Teams and Execution Part I  --- Sam Altman, President, Y Combinator; Dustin Moskovitz, Cofounder, Facebook, Cofounder, Asana, Cofounder, Good Ventures 
   + Why to Start a Startup  
   + "There are much easier ways to become rich and everyone who starts a startup always says, always, that they couldn't have imagined how hard and painful it was going to be. You should only start a startup if you feel compelled by a particular problem and that you think starting a company is the best way to solve it."
   + "Good startups usually take ten years."
   + "The hardest part about coming up with great ideas, is that the best ideas often look terrible at the beginning.  ...That's how most great companies get started. Unpopular but right is what you're going for. You want something that sounds like a bad idea, but is a good idea... Why now? Why is this the perfect time for this particular idea, and to start this particular company. Why couldn't it be done two years ago, and why will two years in the future be too late?"
   + "One of the most important tasks for a founder is to make sure that the company builds a great product. Until you build a great product, nothing else matters. When really successful startup founders tell the story of their early days its almost always sitting in front of the computer working on their product, or talking to their customers. That's pretty much all the time."
 
-2.  Ideas, Products, Teams and Execution Part II  --- 	Sam Altman, President, Y Combinator ;
+
+### 2.  Ideas, Products, Teams and Execution Part II  --- 	Sam Altman, President, Y Combinator ;
   + to go on a vacation and that never works for founders. It's sort of all consuming in this way that is very difficult to understand. ... So what you do is you just keep going.
   + " Cofounder relationships are among the most important in the entire company. ..  looking for cofounders that need to be unflappable, tough, they know what to do in every situation. They act quickly, they're decisive, they're creative, they're ready for anything"
   + "how much time you should be spending on hiring. The answer is zero or twenty-five percent. "
@@ -38,7 +39,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
   +  "Mediocre founders spend a lot of time talking about grand plans, but they never make a decision. They're talking about you know I could do this thing, or I could do that other thing, and they're going back and forth and they never act. And what you actually need is this bias towards action."
   + " Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones."
   
-3.	Before the Startup  --- Paul Graham, Founder, Y Combinator :  
+
+### 3.	Before the Startup  --- Paul Graham, Founder, Y Combinator :  
   + Startups are very counterintuitive and I'm not sure exactly why.  the list of the counterintuitive stuff you have to remember to prevent your existing instincts from leading you astray. startups are so weird that if you follow your instincts they will lead you astray. 
   + First: Work with people you would generally like and respect and that you have known long enough to be sure about 
   + Second: What you need to know to succeed in a startup is not expertise in startups, what you need is expertise in knowing your own users. ... the best way to convince investors is to start a startup that is actually doing well, meaning growing fast, and then simply tell investors so...  the way to make your startup grow is to make something that users really love, and then tell them about it. 
@@ -48,7 +50,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
   + " One guaranteed way to turn your mind into the type to start up ideas for them unconsciously. Is to get yourself to the leading edge of some technology. To, as Paul Buchheit put it, "Live in the future." And when you get there, ideas that seem uncannily prescient to other people will seem obvious to you. You may not realize they're start up ideas, but you will know they are something that ought to exist."
   + "but business school was designed to teach people management. Management is a problem that you only have in a startup if you are sufficiently successful. So really what you need to know early on to make a start up successful is developing products. ... Honestly the best way to learn on how to start a startup is just to just try to start it."
 
-4. Talking to Users, and Growing --- Adora Cheung, Founder, Homejoy ; Building Product, 
+
+### 4. Talking to Users, and Growing --- Adora Cheung, Founder, Homejoy ; Building Product, 
   + "what are the things that most people do incorrectly when starting a startup? The novice approach is thinking, "I have this really great idea, I don't want to tell anyone about it. I'm going to build, build, build and then going to maybe tell one or two people and then I'm going to launch it on TechCrunch or somewhere like that, and then I'm going to get lots of users."
   + " You should be able to describe your problem in one sentence. And then you should think, "How does that problem relate to me? Am I really passionate about that problem?" And then you should think, "Okay it's a problem I have, but is it a problem that other people have?" And you verify that by going out and talking to people."
   + "If you are in a situation like mine where there is a service element of it then you should go and do that service yourself."
@@ -62,7 +65,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
   + "So there are three types of growth. Sticky, viral, and paid growth. Sticky growth is trying to get your existing users to come back and pay you more or use you more. Viral growth is when people talk about you. So you use a product, you really like it and you tell ten other friends, and they like it. That's viral growth. And the third is paid growth. If you happen to have money in the bank you're going to be able to use part of that money to buy growth."
 
 
-5.  Competition is For Losers --	Peter Thiel, Founder, Paypal, Founder, Palantir, and Founder, Founders Fund : 
+
+### 5.  Competition is For Losers --	Peter Thiel, Founder, Paypal, Founder, Palantir, and Founder, Founders Fund : 
   + "today’s speaker is Peter Thiel, Peter was the founder of PayPal, Palantir, and Founders Fund and has invested in most of the tech companies in Silicon Valley. He's going to talk about strategy and competition. "
   + "you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers,"
   + "there's basically a very simple formula, that if you have a valuable company two things are true. Number one, that it creates "X" dollars of value for the world. Number two, that you capture "Y" percent of "X.” And the critical thing that I think people always miss in this sort of analysis is that "X" and "Y" are completely independent variables, and so "X" can be very big and "Y" can be very small. "X" can be an intermediate size and if "Y” is reasonably big, you can still have a very big business."
@@ -79,7 +83,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
 
 
 
-6. 	Growth:  Alex Schultz, VP Growth, Facebook ; 
+
+### 6. 	Growth:  Alex Schultz, VP Growth, Facebook ; 
   + [transcripts](https://genius.com/Alex-schultz-lecture-6-growth-annotated)
   + "growth, growth hacking or growth marketing. In my mind it’s just internet marketing using whatever channel you can to get whatever output you want, and that’s how I paid for college and that’s how I went from being a physicist to a Marketer - transitioning to the darkside of the force."
   + "Retention is the single most important thing for growth. "
@@ -91,7 +96,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
   + "So for operating for growth, what you really need to think about, is what is the North star of your company: What is that one metric, where if everyone in your company is thinking about it and driving their product towards that metric and their actions towards moving that metric up, you know in the long-run your company will be successful."
   + " Just have a North Star (golden metric to optimize), and know the magic moment that you know when a user experiences that, they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. Those are, I think, the most important points when operating for growth. Everything has to come from the top."
 
-7.  How to Build Products Users Love:	Kevin Hale, Founder, Wufoo and Partner, Y Combinator
+
+### 7.  How to Build Products Users Love:	Kevin Hale, Founder, Wufoo and Partner, Y Combinator
   + [transcripts](https://genius.com/Kevin-hale-lecture-7-how-to-build-products-users-love-part-i-annotated)
   + "How do we make things that have a passionate user base, that our users are unconditionally wanting it to be successful, both on the products that we built and the companies behind them?"
   + "I feel like growth is fairly simple. It's the interaction between two concepts or variables: conversion rate and churn. The gap between those two things pretty much indicates how fast you're going to grow. Most people, especially business-type people, tend to look at this interaction in a very mathematical, calculated sort of way. "
@@ -111,7 +117,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
   + "Treacy and Fred Wiersema and in it they talk about the discipline of market leaders. They say there's only three ways that you achieve market dominance, and depending on how you want to achieve that market dominance, you have to organize your company in a very specific way: best price, best product, and best overall solution. For best price, you focus on logistics, so Wal-Mart and Amazon. If you want to be the best product out there, you focus on R&D, Apple is usually a quintessential example of that. Best overall solution is about being customer intimate. This is the path that you see all luxury brands follow, ... as well as the hospitality industry. What I love about this path towards market dominance is that the third one is the only one that everyone can do at any stage of their company. It requires almost no money to get started with it. It usually just requires a little bit of humility and some manners. "
   + "My feeling on marketing and sales, my feeling is marketing and sales is a tax you pay because you haven't made your product remarkable. Word-of-mouth is the easiest kind of growth, and it’s how a lot of the great companies grow. Figure out how to have a story that people want to tell about your product where they are the most interesting one at the dinner table. And then that person is your sales person. That person is your sales force for you."
 
-8.	How to Get Started: Walker Williams, Founder, Teespring, Justin Kan, Founder, Twitch and Partner, Y Combinator ; Stanley Tang, Founder, DoorDash 
+
+### 8.	How to Get Started: Walker Williams, Founder, Teespring, Justin Kan, Founder, Twitch and Partner, Y Combinator ; Stanley Tang, Founder, DoorDash 
   + [transcripts](https://genius.com/Walker-williams-lecture-8-doing-things-that-dont-scale-pr-and-how-to-get-started-annotated)
   + "So at the beginning, Doing Things That Don't Scale; ...Another thing about doing things that don't scale is it also allows you to become an expert in your business, ..."
   + " And finally, it's okay to do things that don't scale. Doing things that don't scale is one of your biggest competitive advantages when you're starting out, and you can figure out how to scale once you have your demand." 
@@ -124,7 +131,8 @@ I find this series of lectures excellent in helping a faculty plan the team proj
     - "The last one I want to talk about is finding product/market fit. What I mean by that is the product you launch with will almost certainly not be the product that takes you to scale. So your job in those early days of a startup is to progress and iterate as fast as possible to reach that product that does have market fit."
     - "Before you think about press, one of the things you really want to consider is who you want to reach, as well as your actual goal. "
  
-9.	How to Raise Money: Marc Andreessen, Founder, Andreessen Horowitz and Founder, Netscape;  Ron Conway, Founder, SV Angel 
+
+### 9.	How to Raise Money: Marc Andreessen, Founder, Andreessen Horowitz and Founder, Netscape;  Ron Conway, Founder, SV Angel 
 Parker Conrad, Founder, Zenefits 
   + [transcripts](https://genius.com/Marc-andreessen-lecture-9-how-to-raise-money-annotated)
   + "what made you decide to invest in a founder company? ... SV Angel and its entities have invested in over 700 companies. To invest in 700 companies that means we have physically talked to thousands of entrepreneurs and there is a whole bunch of things that just go through my head when I meet an entrepreneur.
@@ -148,7 +156,8 @@ Parker Conrad, Founder, Zenefits
   + " If you raise too much money in your A round that will seriously screw you up, right, later on down the road. Because you are going to raise a C seed then the accumulative dilution will get to be too much. So you have to be precise on every single round, you have to raise as close to the exact amount of money as possible. Then you have to be as pure and clean and precise with the investors as you can possibly be about the risks and the milestones.... Basically you want to think of it as a ticket that you have a limited number of holes you can punch, every time you make an investment you punch a hole. When you are out of holes to punch, you are done,"
   + "So it really, really, really matters who your partner is. It really is like getting married, and it really is worth putting the same amount, "
 
-10.	Culture: Alfred Lin, Former COO, Zappos and Partner, Sequoia Capital ; Brian Chesky, Founder, Airbnb 
+
+### 10.	Culture: Alfred Lin, Former COO, Zappos and Partner, Sequoia Capital ; Brian Chesky, Founder, Airbnb 
   + [transcripts](https://genius.com/Alfred-lin-lecture-10-company-culture-and-building-a-team-part-i-annotated)
   + "hopefully, after this talk you will be able to know: What is culture? Why does it matter? How do you create your core values? And think about elements that fit together for core values and culture that create a high performance team. Get some best practices for the culture."
   + "quote from Gandhi “Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become the habits. Your habits become your values. And your values become your destiny."
