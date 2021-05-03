@@ -128,16 +128,11 @@ I find this series of lectures excellent in helping a faculty plan the team proj
 Parker Conrad, Founder, Zenefits 
   + [transcripts](https://genius.com/Marc-andreessen-lecture-9-how-to-raise-money-annotated)
   + "what made you decide to invest in a founder company? ... SV Angel and its entities have invested in over 700 companies. To invest in 700 companies that means we have physically talked to thousands of entrepreneurs and there is a whole bunch of things that just go through my head when I meet an entrepreneur.
-  + "Literally while you are talking to me in the first minute I am saying 
-    - “Is this person a leader?” 
-    - “Is this person rightful, focused, and obsessed by the product?” 
-    - the first question I ask is "What inspired you to create this product?"—I’m hoping that it’s based on a personal problem that that founder had and this product is the solution to that personal problem. 
-    - Then I am looking for communication skills, because if you are going to be a leader and hire a team, assuming your product is successful, you have to be a really good communicator and you have to be a born leader. "
+  + "Literally while you are talking to me in the first minute I am saying: - “Is this person a leader?”  - “Is this person rightful, focused, and obsessed by the product?” 
+  + the first question I ask is "What inspired you to create this product?"—I’m hoping that it’s based on a personal problem that that founder had and this product is the solution to that personal problem. 
+  + Then I am looking for communication skills, because if you are going to be a leader and hire a team, assuming your product is successful, you have to be a really good communicator and you have to be a born leader. "
   + "invest in across stages".... "We invest in the seed stage, the venture stage, growth stage."
-  +  "a game of outliers, it is extreme outliers." 
-     - "conventional statistics are in the order of four thousand venture fundable companies a year that want to raise venture capital. "
-     - "About two hundred of those will get funded by what is considered a top tier VC". 
-     - "About fifteen of those will, someday, get to a hundred million dollars in revenue. "
+  +  "a game of outliers, it is extreme outliers." / + "conventional statistics are in the order of four thousand venture fundable companies a year that want to raise venture capital. "  + "About two hundred of those will get funded by what is considered a top tier VC". / + "About fifteen of those will, someday, get to a hundred million dollars in revenue. "
   +  "invest in strength versus lack of weakness. ...  checkbox like: really good founder, really good idea, really good products, really good initial customers. Check, check, check, check. ... but not have an extreme strength that makes them an outlier."
   + "one compelling sentence that you should practice like crazy, what your product does so that the investor that you are talking to can immediately picture the product in their own mind."
   + "Procrastination is the devil in startups. So no matter what you do you got to keep that ship moving. If it's decisions to hire, decisions to fire, you got to make those quickly. All about building a great team. Once you have a great product then it’s all about execution and building a great team."
