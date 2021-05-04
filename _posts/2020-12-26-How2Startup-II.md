@@ -23,7 +23,18 @@ I find this series of lectures excellent in helping a faculty plan the team proj
 
 - Second part (Lecture 11 to Lecture 20)
 
-
+| Index Lecture Speaker | Topic |  
+| :-------------------------------------- | :------------------------------- | 
+| 11  Patrick Collison, Co-Founder, Stripe; John Collison, Co-Founder, Stripe ; Ben Silbermann, Founder & CEO, Pinterest | Hiring and Culture, Part II |
+| 12  Aaron Levie, Founder, Box | Building for the Enterprise |
+| 13  Reid Hoffman, Partner, Greylock Ventures and Founder, LinkedIn | How To Be A Great Founder |
+| 14  Keith Rabois, Partner, Khosla Ventures | How to Operate |
+| 15  Ben Horowitz, Founder, Andreessen Horowitz, and Founder, and Opsware | How to Manage | 
+| 16  Emmett Shear, Founder and CEO, Twitch | How to Run a User Interview | 
+| 17  Hosain Rahman, Founder, Jawbone | How to Design Hardware Products |
+| 18  Kirsty Nathoo, Carolynn Levy, Partners, Y Combinator | Legal and Accounting Basics for Startups |
+| 19  Tyler Bosmeny, Founder and CEO, Clever;  Michael Seibel, Partner, Y Combinator, Sasar Younis, Dalton Caldwell, Partners, Y Combinator | Sales and Marketing; How to Talk to Investors; Investor Meeting Roleplaying |
+| 20  Sam Altman, President, Y Combinator | Later-Stage Advice | 
 
 ### 11.	Patrick Collison, Co-Founder, Stripe;  John Collison, Co-Founder, Stripe ; Ben Silbermann, Founder & CEO, Pinterest /  Hiring and Culture, Part II
   + [transcripts](https://genius.com/Patrick-collison-lecture-11-company-culture-and-building-a-team-part-ii-annotated)

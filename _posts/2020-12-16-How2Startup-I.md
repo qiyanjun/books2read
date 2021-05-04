@@ -21,7 +21,25 @@ I find this series of lectures excellent in helping a faculty plan the team proj
 - Course page includes slide decks and lecture transcripts.
 
 
+
 - First part (Lecture 1 to Lecture 10)
+
+
+
+| Index Lecture Speaker | Topic |  
+| :------------------------------- | :------------------------------- | 
+| 1 Sam Altman, President, Y Combinator, Dustin Moskovitz, Cofounder, Facebook, Cofounder, Asana, Cofounder, Good Ventures | Welcome, and Ideas, Products, Teams and Execution Part I : Why to Start a Startup | 
+| 2 Sam Altman, President, Y Combinator | Ideas, Products, Teams and Execution Part II| 
+| 3 Paul Graham, Founder, Y Combinator | Before the Startup |
+| 4 Adora Cheung, Founder, Homejoy | Building Product, Talking to Users, and Growing | 
+| 5 Peter Thiel, Founder, Paypal, Founder, Palantir, and Founder, Founders Fund | Competition is For Losers |
+| 6 Alex Schultz, VP Growth, Facebook | Growth |
+| 7 Kevin Hale, Founder, Wufoo and Partner, Y Combinator | How to Build Products Users Love |
+| 8 Walker Williams, Founder, Teespring, Justin Kan, Founder, Twitch and Partner, Y Combinator, Stanley Tang, Founder, DoorDash | Doing Things That Don't Scale, PR,  How to Get Started |
+| 9 Marc Andreessen, Founder, Andreessen Horowitz and Founder, Netscape; Ron Conway, Founder, SV Angel ; Parker Conrad, Founder, Zenefits | How to Raise Money |
+| 10  Alfred Lin, Former COO, Zappos and Partner, Sequoia Capital; Brian Chesky, Founder, Airbnb | Culture |
+
+
 
 ###  1.	Welcome, and Ideas, Products, Teams and Execution Part I  --- Sam Altman, President, Y Combinator; Dustin Moskovitz, Cofounder, Facebook, Cofounder, Asana, Cofounder, Good Ventures 
   + Why to Start a Startup  
