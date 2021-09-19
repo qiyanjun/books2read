@@ -3,6 +3,7 @@ layout: single
 title: A Brief History of Time
 tags:
 - Science
+- history
 ---
 
 

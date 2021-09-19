@@ -4,6 +4,7 @@ title: Guns, Germs, and Steel - The Fates of Human Societies
 tags:
 - Science
 - Critical-Thinking
+- history
 ---
 
 

@@ -4,6 +4,7 @@ title: Capital in the 21 century
 tags:
 - Critical-Thinking
 - Science
+- history
 ---
 
 ###  Title: Capital in the 21 century

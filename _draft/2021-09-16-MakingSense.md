@@ -3,6 +3,7 @@ layout: single
 title: Making Sense Conversations on Consciousness, Morality, and the Future of Humanity
 tags:
 - Critical-Thinking
+- history
 ---
 
 

@@ -3,6 +3,7 @@ layout: single
 title: Your-Deceptive-Mind-A-Scientific-Guide-to-Critical-Thinking-Skills
 tags:
 - Critical-Thinking
+- history
 ---
 
 
