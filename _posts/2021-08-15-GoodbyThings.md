@@ -2,7 +2,7 @@
 layout: single
 title: Goodbye, Things- The New Japanese Minimalism 
 tags:
-- Useful-Other
+- Family
 ---
 
 ## Title: Goodbye, Things- The New Japanese Minimalism
