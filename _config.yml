@@ -70,11 +70,11 @@ plugins:
 author:
   name   : "Yanjun Qi"
   avatar: "/pic/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am science curious. (I am an associate professor (tenured) at the Department of Computer Science , University of Virginia.)"
+  bio: "I am science curious. "
   links:
     - label: "HomePage"
       icon: "fas fa-fw fa-link"
-      url: "https://www.cs.virginia.edu/yanjun/"
+      url: "https://qiyanjun.github.io/Homepage/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Qdatalab"
