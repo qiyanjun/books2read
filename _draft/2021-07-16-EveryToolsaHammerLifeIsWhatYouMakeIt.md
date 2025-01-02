@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Every Tools a Hammer Life Is What You Make It
+title: Every Tool is a Hammer - Life Is What You Make It
 tags:
 - Critical-Thinking
 ---
