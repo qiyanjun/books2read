@@ -17,6 +17,7 @@ tags:
 
 - a comprehensive guide on the art of networking and relationship-building, emphasizing that success in business and life is deeply rooted in the connections we forge with others. 
 
+> some of the notes used LLM AI to help edit
 
 ## Key Themes
 

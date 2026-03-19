@@ -16,6 +16,10 @@ tags:
 
 - structured around the concept of "supercommunicators," individuals who excel at conveying ideas and fostering genuine relationships.
 
+
+> some of the following notes used LLM AI to help edit
+
+
 #### Key Concepts
 
 **1. Types of Conversations:**   

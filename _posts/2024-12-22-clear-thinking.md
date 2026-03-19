@@ -14,6 +14,7 @@ tags:
 - by Shane Parrish 
 - emphasizes the importance of recognizing pivotal moments between stimulus and response, enabling readers to utilize their full cognitive abilities effectively.
 
+> some of the following notes used LLM AI to help edit
 
 #### Key Concepts
 

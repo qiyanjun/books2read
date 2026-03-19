@@ -17,12 +17,13 @@ tags:
 
 - a profound exploration of personal and professional fulfillment, applying business management theories to life's most critical decisions
 
+> some of the following notes used LLM AI to help edit
 
 **Core Questions of the Book**
 The book centers around three fundamental life questions:
 - How can I find satisfaction in my career?
 - How can I build enduring personal relationships?
-- How can I maintain personal integrity?d
+- How can I maintain personal integrity?
 
 **Resource Allocation Approach**
 Christensen proposes viewing life as a **resource allocation problem**, where individuals have limited time, energy, wealth, and talent to invest across different life domains. The key is mindfully managing these resources to nurture work, family, and personal growth
