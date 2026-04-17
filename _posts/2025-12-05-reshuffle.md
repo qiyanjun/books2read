@@ -86,3 +86,7 @@ It's less suited to readers looking for practical implementation advice on speci
 *Reshuffle* is flawed in ways worth acknowledging—critics have noted that the writing is repetitive in places, the diagrams underwhelm, and the book occasionally glosses over the very real challenges of implementing the coordination futures it describes. It also treats coordination and orchestration as relatively neutral forces, while their deployment often carries power asymmetries and ethical dimensions that go underexplored.
 
 But these are the complaints you'd level at a book that is genuinely doing something ambitious. Choudary's core contribution—reframing AI as a coordination technology operating at the system level, and showing how unbundling and rebundling cycles determine who gains power—is the most useful analytical lens for the AI transition that this reviewer has encountered. The shipping container insight alone reframes five years of AI discourse in a single chapter. Its lasting contribution is giving strategists the vocabulary and framework to think about AI's second-order effects before the reshuffle is already done.
+
+
+### One note on Singapore 
+The author explain the success of Singapore: Singapore modernized its docks, but its success stemmed from recognizing the need for a new coordination logic for global trade and restructuring itself accordingly. Firms chasing automation may unlock short-term gains, but those using AI to orchestrate complex systems will unlock entirely new forms of value. 
