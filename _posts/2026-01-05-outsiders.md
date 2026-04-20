@@ -1,6 +1,6 @@
 ---
 layout: single
-title: The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success Hardcover 
+title: The Outsiders- Eight Unconventional CEOs and Their Radically Rational Blueprint for Success Hardcover 
 tags:
 - 
 ---
