@@ -2,7 +2,7 @@
 layout: single
 title:  Running & Being - The Total Experience 
 tags:
-- 
+- Self-Develop
 ---
 
 
@@ -61,87 +61,53 @@ He invokes a line from Rollo May: "I know only two things. One, I will be dead s
 
 *Running & Being* is not simply a book about running. It is a book about how physical action can become a path toward self-understanding.
 
-At its core, the book suggests that running is only the entry point. The deeper question is not how fast we run, how far we go, or what results we achieve. The deeper question is:
+At its core, the book suggests that running is only the entry point. The deeper question is not how fast we run, how far we go, or what results we achieve. The deeper question is: Who are we becoming through the act of running?
 
-> **Who are we becoming through the act of running?**
 
----
 
 ### The Body as a Path to the Self
 
 One of the most powerful ideas in the book is that the body is not merely a tool—it is a medium through which we come to know ourselves.
 
-Running brings us into direct contact with our limits. It makes us feel fatigue, resistance, fear, discipline, and desire in a way that is difficult to access through thought alone.
-
-> Through physical truth, we approach psychological truth.
-
-The body tells us things the mind often avoids.
+Running brings us into direct contact with our limits. It makes us feel fatigue, resistance, fear, discipline, and desire in a way that is difficult to access through thought alone. Through physical truth, we approach psychological truth. The body tells us things the mind often avoids.
 
 
----
 
-## Running as Self-Discovery
+### Running as Self-Discovery
 
 Running acts as a mirror. It reveals:
-
-- Willpower  
+- Will power  
 - Laziness  
 - Fear  
 - Limits  
 - Endurance  
 
-> Running is not just training the body—it is testing character.
-
-Every run asks:
-
+Running is not just training the body—it is testing character. Every run asks:
 - What do you do when you feel tired?  
 - What do you do when no one is watching?  
 - What do you do when your body says stop?
 
----
 
-## Becoming, Not Merely Achieving
+### Becoming, Not Merely Achieving
 
 Modern life is often outcome-driven:
-
 - Pace  
 - Distance  
 - Ranking  
 - Productivity  
 
-This book challenges that mindset.
+This book challenges that mindset. Life is not about achieving goals—it is about becoming. Running, then, is not about finishing faster. It is about discovering who you are in the process.
 
-> Life is not about achieving goals—it is about becoming.
-
-Running, then, is not about finishing faster. It is about discovering who you are in the process.
-
----
 
 ### Three Insights 
 
-#### 1. Action Reveals Truth
+1. Action Reveals Truth
++ Some truths cannot be thought—they must be experienced. Understanding comes through the body, not just the mind.
 
-> Some truths cannot be thought—they must be experienced.
 
-Understanding comes through the body, not just the mind.
+2. Discipline Creates Freedom
++ Discipline is not restriction. Through structure and repetition, we gain access to a deeper form of freedom.
 
----
-
-#### 2. Discipline Creates Freedom
-
-Discipline is not restriction.
-
-> Through structure and repetition, we gain access to a deeper form of freedom.
-
----
-
-#### 3. Discomfort Is a Doorway
-
-Fatigue, pain, and limits are not obstacles.
-
-> They are moments of truth.
-
-They reveal who we are.
-
----
+3. Discomfort Is a Doorway
++ Fatigue, pain, and limits are not obstacles. They are moments of truth. They reveal who we are.
 
