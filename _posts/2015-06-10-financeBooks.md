@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  Useful Books about Finance
+title:  Useful Books about Personal Finance - Thinking and grow rich
 tags:
-- Useful-Other
+- Self-Develop
 ---
 
 
