@@ -7,7 +7,7 @@ tags:
 
 
 
-### I Ching: Bilingual Edition, English and Chinese: 易经: The Book of Change
+### YiJing / I Ching: Bilingual Edition, English and Chinese: 易经: The Book of Change
 
 
 - [URL](https://www.goodreads.com/book/show/23018182-i-ching)
@@ -84,6 +84,13 @@ This makes the book particularly relevant to leadership, organizations, institut
 - lines 2 and 5 are especially important
 	+ Line 2: central position in the lower/internal trigram. Yin at line 2 is both central and correctly placed; receptive, flexible, supporting, responsive.
 	+ Line 5: central position in the upper/external trigram. Yang at line 5 is both central and correctly placed: active, firm, initiating, assertive.
+
+- ATT: A solid line does not always mean “act,” and a broken line does not always mean “wait.” A better reading is:
+	- Yang asks: Where is firmness, initiative, or assertion operating?
+	- Yin asks: Where is receptivity, flexibility, or support operating?
+	- Position asks: At what stage and level is that quality operating?
+	- Relationships ask: Does it receive support, opposition, or response?
+	- Movement asks: What is this quality becoming?
 
 #### Leadership lessons
 For leadership and organizational decision-making, the book repeatedly recommends:
