@@ -1,13 +1,14 @@
 ---
 layout: single
-title: 
+title: YiJing -  The Book of Change
 tags:
 - Critical-Thinking
+- Management
 ---
 
 
 
-### YiJing / I Ching: Bilingual Edition, English and Chinese: 易经: The Book of Change
+# Title: YiJing / I Ching: Bilingual Edition, English and Chinese: 易经: The Book of Change
 
 
 - [URL](https://www.goodreads.com/book/show/23018182-i-ching)
